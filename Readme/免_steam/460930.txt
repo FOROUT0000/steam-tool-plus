@@ -1,0 +1,4 @@
+﻿这个游戏正版启动都非常久，可能要十多二十分钟，补丁复制到根目录按照以下要求弄就好了
+1、根目录找到这个shadercontainer_engine_win64_2015_f.dll文件，把它重新命名改为shadercontainer_engine_win64_f.dll
+2、删除steam_api64.dll
+3、GRW.exe启动
