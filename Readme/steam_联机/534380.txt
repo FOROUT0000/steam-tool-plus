@@ -1,0 +1,10 @@
+打完补丁后
+1. 启动Steam并登录了账号（为了读取在线状态来联机，怕就用小号）
+
+2. 开始游戏时ph\work\bin\x64\DyingLightGame_x64_rwdi.exe
+
+3. 登录你的Epic商店账户。
+
+过了序章就能联机了
+
+up：https://space.bilibili.com/405707676
