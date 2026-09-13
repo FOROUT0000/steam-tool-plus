@@ -1,0 +1,29 @@
+﻿去程序的【工具】->【免steam补丁】进行基础配置即可实现免steam游玩
+详细教程（游戏本体默认安装在D:\SteamGame\FINAL FANTASY VII REMAKE INTERGRADE，不是请对应修改）
+
+游戏文件夹：
+D:\SteamGame\FINAL FANTASY VII REMAKE INTERGRADE\Engine\Binaries\ThirdParty\Steamworks\Steamv153a\Win64
+
+游戏主程序:
+
+Steam AppID：
+1462040
+
+1.点应用基础配置
+
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+3312260=FINAL FANTASY VII REBIRTH Posh Chocobo Summoning Materia
+3260680=FINAL FANTASY VII REBIRTH Armor: Orchid Bracelet
+3260650=FINAL FANTASY VII REBIRTH Summon materia: Moogle trio
+3361450=FINAL FANTASY VII REBIRTH Digital Deluxe Edition Upgrade
+3376810=FINAL FANTASY VII REBIRTH Accessory: Kupo Charm & Survival Set
+3312270=FINAL FANTASY VII REBIRTH Armor: Shinra Bangle Mk. II
+3260660=FINAL FANTASY VII REBIRTH Summon materia: Magic Pot
+3260630=FINAL FANTASY VII REBIRTH Digital Mini Soundtrack & Digital Art Book
+3312280=FINAL FANTASY VII REBIRTH Armor: Midgar Bangle Mk. II
+3260670=FINAL FANTASY VII REBIRTH Accessory: Reclaimant Choker
+
+
+2.点保存配置
