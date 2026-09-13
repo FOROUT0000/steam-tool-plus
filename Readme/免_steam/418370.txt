@@ -1,0 +1,34 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Resident Evil 7 Biohazard，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Resident Evil 7 Biohazard
+
+游戏主程序：
+D:\SteamGame\Resident Evil 7 Biohazard\re7.exe
+
+Steam AppID ：
+418370
+
+1.点击开始脱壳
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+584960=RESIDENT EVIL 7 biohazard - Original Soundtrack (FLAC)
+564190=Not A Hero
+543550=Survival Pack Special Set
+540340=Resident Evil 7 - Season Pass
+530611=End Of Zoe
+530610=Banned Footage Vol.2
+530599=E Coin & Hard Mode (Universal Coin & Madhouse Mode Unlock)
+530598=D Coin & Hard Mode (Reload Coin & Madhouse Mode Unlock)
+530597=C Coin & Hard Mode (Instinct Coin & Madhouse Mode Unlock)
+530596=B Coin & Hard Mode (Attack Coin & Madhouse Mode Unlock)
+530595=A Coin & Hard Mode (Defense Coin & Madhouse Mode Unlock)
+530594=Survival Pack E
+530593=Survival Pack D
+530592=Survival Pack C
+530591=Survival Pack B
+530590=Survival Pack A (Survival Pack: Recovery Set)
+529930=Banned Footage Vol.1
