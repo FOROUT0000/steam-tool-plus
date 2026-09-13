@@ -1,0 +1,80 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Sora no Kiseki the 1st，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Sora no Kiseki the 1st
+
+游戏主程序：
+D:\SteamGame\Sora no Kiseki the 1st\sora_1st.exe
+
+Steam AppID ：
+3447040
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+3945600 = Sora no Kiseki the 1st - Golden Pom Fruit Value Pack (3)
+3945590  = Sora no Kiseki the 1st - Golden Pom Fruit Value Pack (2)
+3945580 = Sora no Kiseki the 1st - Golden Pom Fruit Value Pack (1)
+3945570 = Sora no Kiseki the 1st - Golden Pom Fruit Set (3)
+3945560 = Sora no Kiseki the 1st - Golden Pom Fruit Set (2)
+3945550 = Sora no Kiseki the 1st - Golden Pom Fruit Set (1)
+3945520 = Sora no Kiseki the 1st - Zelam Capsule Set (3)
+3945510 = Sora no Kiseki the 1st - Zelam Capsule Set (2)
+3945500 = Sora no Kiseki the 1st - Zelam Capsule Set (1)
+3945490 = Sora no Kiseki the 1st - Zelam Powder Set (3)
+3945480 = Sora no Kiseki the 1st - Zelam Powder Set (2)
+3945470 = Sora no Kiseki the 1st - Zelam Powder Set (1)
+3945460 = Sora no Kiseki the 1st - Advanced Recovery Medicine Set (5)
+3945450 = Sora no Kiseki the 1st - Advanced Recovery Medicine Set (4)
+3945440 = Sora no Kiseki the 1st - Advanced Recovery Medicine Set (3)
+3945430 = Sora no Kiseki the 1st - Advanced Recovery Medicine Set (2)
+3945420 = Sora no Kiseki the 1st - Advanced Recovery Medicine Set (1)
+3945400 = Sora no Kiseki the 1st - Monster Ingredients Set B (3)
+3945390 = Sora no Kiseki the 1st - Monster Ingredients Set B (2)
+3945380 = Sora no Kiseki the 1st - Monster Ingredients Set B (1)
+3945370 = Sora no Kiseki the 1st - Monster Ingredients Set A (3)
+3945360 = Sora no Kiseki the 1st - Monster Ingredients Set A (2)
+3945340 = Sora no Kiseki the 1st - Monster Ingredients Set A (1)
+3945330 = Sora no Kiseki the 1st - U-Material Set (5)
+3945320 = Sora no Kiseki the 1st - U-Material Set (4)
+3945310 = Sora no Kiseki the 1st - U-Material Set (3)
+3945300 = Sora no Kiseki the 1st - U-Material Set (2)
+3945290 = Sora no Kiseki the 1st - U-Material Set (1)
+3945280 = Sora no Kiseki the 1st - Sepith Set (5)
+3945270 = Sora no Kiseki the 1st - Sepith Set (4)
+3945260 = Sora no Kiseki the 1st - Sepith Set (3)
+3945250 = Sora no Kiseki the 1st - Sepith Set (2)
+3945240 = Sora no Kiseki the 1st - Sepith Set (1)
+3945230 = Sora no Kiseki the 1st - Chibi Character Cover Set
+3945220 = Sora no Kiseki the 1st - Orbment Cover Set
+3945210 = Sora no Kiseki the 1st - Unique Hair Color Set
+3945200 = Sora no Kiseki the 1st - Two-Tone Hair Color Set
+3945190 = Sora no Kiseki the 1st - Banner Set C
+3945180 = Sora no Kiseki the 1st - Banner Set B
+3945170 = Sora no Kiseki the 1st - Banner Set A
+3945160 = Sora no Kiseki the 1st - Lively Effect Set
+3945150 = Sora no Kiseki the 1st - Demon King Costume Set
+3945140 = Sora no Kiseki the 1st - Fallen Angel Costume Set
+3945130 = Sora no Kiseki the 1st - Archangel Costume Set
+3945120 = Sora no Kiseki the 1st - Pretty Backpack Set
+3945110 = Sora no Kiseki the 1st - Chocosta Set
+3945100 = Sora no Kiseki the 1st - Head-Pom Set B
+3945090 = Sora no Kiseki the 1st - Head-Pom Set A
+3945080 = Sora no Kiseki the 1st - Go for it! Headgear Set 
+3945070 = Sora no Kiseki the 1st - Glasses Set B
+3945060 = Sora no Kiseki the 1st - Glasses Set A
+3945050 = Sora no Kiseki the 1st - Unique Diner Costume Set Vol.3
+3945040 = Sora no Kiseki the 1st - Unique Diner Costume Set Vol.2
+3945030 = Sora no Kiseki the 1st - Unique Diner Costume Set Vol.1
+3945020 = Sora no Kiseki the 1st - Matching Diner Costume Set: Fine Red Diner Vol.3
+3945010 = Sora no Kiseki the 1st - Matching Diner Costume Set: Fine Red Diner Vol.2
+3945000 = Sora no Kiseki the 1st - Matching Diner Costume Set: Fine Red Diner Vol.1
+3944990 = Sora no Kiseki the 1st - Jenis Royal Academy Uniform Set
+3944980 = Sora no Kiseki the 1st - Estelle & Joshua Swimwear: Pure Resort
+3944970 = Sora no Kiseki the 1st - Costume: NEO Bracer
+3944960 = Sora no Kiseki the 1st - Costume: Summer Vacation (Joshua Ver.)
+3944950 = Sora no Kiseki the 1st - Costume: Summer Vacation (Estelle Ver.)
+3944910 = Sora no Kiseki the 1st - Costume: Plushie Estelle/Plushie Joshua   
