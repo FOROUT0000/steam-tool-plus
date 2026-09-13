@@ -1,1 +1,0 @@
-安装完补丁后通过 XboxLiveAuth.exe启动游戏（steam要打开放后台）
