@@ -1,0 +1,19 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\The Blood of Dawnwalker\，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\The Blood of Dawnwalker\Engine\Binaries\ThirdParty\Steamworks\Steamv157\Win64
+
+游戏主程序：
+D:\SteamGame\The Blood of Dawnwalker\Dawnwalker\Binaries\Win64\Dawnwalker.exe
+
+Steam AppID ：
+3751260
+
+1.点击开始脱壳
+2.点击应用基础配置
+
+高级功能配置->DLC配置 手动指定DLC
+DLC列表  输入：
+4417550 = The Blood of Dawnwalker - Eclipse Edition Content
+4417540 = The Blood of Dawnwalker - Sangoran Wayfarer's Armor Set
