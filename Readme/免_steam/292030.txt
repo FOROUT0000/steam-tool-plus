@@ -1,0 +1,36 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\The Witcher 3 Wild Hunt，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\The Witcher 3 Wild Hunt\bin\x64
+
+游戏主程序：
+D:\SteamGame\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe
+
+Steam AppID ：
+292030
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+378649 = The Witcher 3: Wild Hunt - Hearts of Stone
+378648 = The Witcher 3: Wild Hunt - Blood and Wine
+378647 = The Witcher 3: Wild Hunt - NEW GAME +
+378646 = The Witcher 3: Wild Hunt - New Finisher Animations
+378645 = The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...'
+378644 = The Witcher 3: Wild Hunt - Alternative Look for Ciri
+378643 = The Witcher 3: Wild Hunt - Skellige Armor Set
+378642 = The Witcher 3: Wild Hunt - New Quest 'Contract: Skellige's Most Wanted'
+378641 = The Witcher 3: Wild Hunt - Alternative Look for Triss
+378640 = The Witcher 3: Wild Hunt - New Quest: 'Scavenger Hunt: Wolf School Gear'
+376391 = The Witcher 3: Wild Hunt - 'Ballad Heroes' Neutral Gwent Card Set
+376390 = The Witcher 3: Wild Hunt - New Quest 'Fool's Gold'
+373951 = The Witcher 3: Wild Hunt - Elite Crossbow Set
+373950 = The Witcher 3: Wild Hunt - Nilfgaardian Armor Set
+370003 = The Witcher 3: Wild Hunt - New Quest 'Contract: Missing Miners'
+370002 = The Witcher 3: Wild Hunt - Alternative Look for Yennefer
+370001 = The Witcher 3: Wild Hunt - Beard and Hairstyle Set
+370000 = The Witcher 3: Wild Hunt - Temerian Armor Set
+355880 = The Witcher 3: Wild Hunt - Expansion Pass
