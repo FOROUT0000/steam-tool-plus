@@ -1,0 +1,35 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Just Cause 4，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Just Cause 4
+
+游戏主程序：
+D:\SteamGame\Just Cause 4
+
+Steam AppID ：
+517630
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+1087131 = Just Cause™ 4 : Shark & Bark Vehicle Pack
+1087130 = Just Cause™ 4: Brawler Mech
+1087123 = Just Cause™ 4: Sea Dogs Vehicle Pack
+1087122 = Just Cause™ 4: Adversary Vehicle Pack
+1087121 = Just Cause™ 4: Soaring Speed Vehicle Pack
+1087120 = Just Cause™ 4: Toy Vehicle Pack
+1028920 = Just Cause™ 4: The Dragon
+972351 = Just Cause™ 4: Los Demonios
+972350 = Just Cause™ 4: Danger Rising
+971760 = Just Cause™ 4: Dare Devils of Destruction
+940080 = Just Cause™ 4: Japanese Audio Pack
+868429 = Just Cause™ 4: Renegade Pack
+868428 = Just Cause™ 4: Neon Racer Pack
+868424 = Just Cause™ 4: Expansion Pass
+868423 = Just Cause™ 4: Golden Gear Pack
+868422 = Just Cause™ 4: Digital Deluxe Content
+868421 = Just Cause™ 4: Wallpaper
+868420 = Just Cause™ 4: Deathstalker Scorpion Pack
