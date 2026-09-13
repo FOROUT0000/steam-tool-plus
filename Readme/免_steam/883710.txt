@@ -1,0 +1,29 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Resident Evil 2，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Resident Evil 2
+
+游戏主程序：
+D:\SteamGame\Resident Evil 2\re2.exe
+
+Steam AppID ：
+883710
+
+1.点击开始脱壳
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+920571=Resident Evil 2 - Al In-game Rewards Unlocked
+920570=Resident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model
+920569=Resident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model
+920568=Resident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model
+920567=Resident Evil 2 - Original Ver. Soundtrack Swap
+920566=Resident Evil 2 - Claire Costume: 98'
+920565=Resident Evil 2 - Leon Costume: 98'
+920564=Resident Evil 2 - Claire Costume: Elza Walker
+920563=Resident Evil 2 - Claire Costume: Noir
+920562=Resident Evil 2 - Claire Costume: Military
+920561=Resident Evil 2 - Leon Costume: Noir
+920560=Resident Evil 2 - Leon Costume: Arklay Sheriff
