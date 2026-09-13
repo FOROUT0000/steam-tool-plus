@@ -1,0 +1,21 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\BUNNY GARDEN 2，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Kingdom Come Deliverance II\Bin\Win64Shared
+
+Steam AppID ：
+1771300
+
+1.点击应用基础配置
+
+2.高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+4075290=Kingdom Come: Deliverance II Artbook
+3368620=Kingdom Come: Deliverance II Mysteria Ecclesiae
+3368610=Kingdom Come: Deliverance II Legacy of the Forge
+3368600=Kingdom Come: Deliverance II Brushes with Death
+3119920=Kingdom Come: Deliverance II Expansion Pass
+3118120=Kingdom Come: Deliverance II Shields of Seasons Passing
+3118110=Kingdom Come: Deliverance II Gallant Huntsman's Kit
+3118100=Kingdom Come: Deliverance II The Lion's Crest
