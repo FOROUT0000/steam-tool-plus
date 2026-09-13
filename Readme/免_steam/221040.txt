@@ -1,0 +1,25 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Resident Evil 6，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Resident Evil 6
+
+
+Steam AppID ：
+221040
+
+1.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+236080=Resident Evil 6 Wallpaper
+235560=RESIDENT EVIL 6 / BIOHAZARD 6: Season Pass
+232610=Resident Evil 6: Left 4 Dead Content
+232590=Resident Evil 6: Survivors Mode
+232570=Resident Evil 6: Siege Mode
+232550=Resident Evil 6: Predator mode
+232530=Resident Evil 6: Onslaught mode
+232510=Resident Evil 6: Soundtrack
+232491=Resident Evil 6: Art Book Japanese
+232490=Resident Evil 6: Art Book
+228580=Resident Evil 6: Mercenaries No Mercy (RE6 / BH6: Mercenaries NoMercy)
