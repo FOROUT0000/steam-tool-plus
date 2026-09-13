@@ -1,0 +1,19 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\DRAGON QUEST I   II HD-2D Remake，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\DRAGON QUEST I   II HD-2D Remake\Engine\Binaries\ThirdParty\Steamworks\Steamv151\Win64
+
+Steam AppID ：
+2893570
+
+1.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+3904280 = DRAGON QUEST I & II HD-2D Remake: Essential Items Kit
+3904140 = DRAGON QUEST I & II HD-2D Remake: Bona Fide Battle Kit
+3904130 = DRAGON QUEST I & II HD-2D Remake: Beginner Battler Kit
+3707310 = DRAGON QUEST I & II HD-2D Remake: Reasonably Priced Regalia Kit
+3707300 = DRAGON QUEST I & II HD-2D Remake: Adventurous Accessory Kit
+3707290 = DRAGON QUEST I & II HD-2D Remake: Trouble-Free Travel Kit
