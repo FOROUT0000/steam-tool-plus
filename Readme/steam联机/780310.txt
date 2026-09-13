@@ -1,0 +1,4 @@
+在bin文件夹里找到riftbreaker_win_release.exe，双击启动。
+
+
+如果提示steam is not launched。关闭Steam，重新打开Steam。
