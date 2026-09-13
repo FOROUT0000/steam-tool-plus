@@ -1,0 +1,22 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\The Binding of Isaac  Rebirth，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\The Binding of Isaac  Rebirth
+
+游戏主程序：
+D:\SteamGame\The Binding of Isaac  Rebirth\isaac-ng.exe
+
+Steam AppID ：
+250900
+
+1.点击开始脱壳
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+322660=The Binding of Isaac: Rebirth - Soundtrack
+401920=The Binding of Isaac: Afterbirth
+570660=The Binding of Isaac: Afterbirth+
+1426300=The Binding of Isaac: Repentance
+3353470=The Binding of Isaac: Repentance+
