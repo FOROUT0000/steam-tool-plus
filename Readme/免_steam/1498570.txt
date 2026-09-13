@@ -1,0 +1,33 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\THE KING OF FIGHTERS XV，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\THE KING OF FIGHTERS XV\Engine\Binaries\ThirdParty\Steamworks\Steamv152\Win64
+
+游戏主程序：
+D:\SteamGame\THE KING OF FIGHTERS XV\KOFXV_Steam.exe
+
+Steam AppID ：
+1498570
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+3253320 = KOF XV DLC Characters "MATURE" and "VICE"
+2574580 = KOF XV DLC Character "HINAKO SHIJO"
+2507300 = KOF XV DLC Character "DUO LON"
+2428540 = KOF XV DLC Character "NAJD"
+2351530 = KOF XV DLC Character "SYLVIE PAULA PAULA"
+2302800 = KOF XV DLC Character "KIM KAPHWAN"
+2193911 = KOF XV DLC Character "SHINGO YABUKI"
+2193910 = KOF XV Fighter Pass
+2101210 = KOF XV DLC Characters "Team SAMURAI"
+2005311 = THE KING OF FIGHTERS XV - DLC Team Pass "Team Pass 2"
+2005310 = KOF XV DLC Characters "Team AWAKENED OROCHI"
+1839450 = THE KING OF FIGHTERS XV - DLC Team Pass "Team Pass 1"
+1835751 = KOF XV DLC Characters "Team SOUTH TOWN"
+1835750 = THE KING OF FIGHTERS XV - DLC Characters "Team GAROU"
+1835741 = THE KING OF FIGHTERS XV - DLC Costume "CLASSIC LEONA"
+1835740 = THE KING OF FIGHTERS XV - DLC Costume "GAROU: MotW TERRY"
