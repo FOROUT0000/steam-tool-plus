@@ -1,0 +1,35 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Ori and the Will of the Wisps，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Ori and the Will of the Wisps\oriwotw_Data\Plugins
+
+游戏主程序：
+D:\SteamGame\Ori and the Will of the Wisps\oriwotw.exe
+
+Steam AppID ：
+1057090
+
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+4560510 = BUNNY GARDEN 2 - Karaoke Song: "eYe♡tracker" (BUNNY GARDEN 2 - Karaoke: "eYe♡tracker")
+4560500 = BUNNY GARDEN 2 - Runa's Karaoke Song: "Crank-in"
+4560480 = BUNNY GARDEN 2 - Kuon's Karaoke Song: "Liar Girl"
+4560470 = BUNNY GARDEN 2 - Erisa's Karaoke Song: "Cinderella GirI"
+4560430 = BUNNY GARDEN 2 - Costume: "Reverse Bunny"
+4560420 = BUNNY GARDEN 2 - Costume: "Cute Tiger"
+4560410 = BUNNY GARDEN 2 - Costume: '"Race Queen"
+4560400 = BUNNY GARDEN 2 - Costume: "Holstein Bikini"
+4560390 = BUNNY GARDEN 2 - Costume: "Brain Power 3000-fold! CyberKunoichi"
+4560380 = BUNNY GARDEN 2 - Costume: "Nightmeow Cat"
+4560370 = BUNNY GARDEN 2 - Costume: "Wrapping Bunny"
+4560360 = BUNNY GARDEN 2 - Costume: "Service Bunny"
+4560350 = BUNNY GARDEN 2 - Costume:: "China Bunny"
+4560340 = BUNNY GARDEN 2 - Costume:"Cheer Bunny"
+4232630 = BUNNY GARDEN 2 - Miuka's Karaoke Song: "Moon Light Driver"
+4232620 = BUNNY GARDEN 2 - Rin's Karaoke Song: "So naive! (lol)"
+3443830 = BUNNY GARDEN 2 - Kana's Karaoke Song: "Screen Love"
