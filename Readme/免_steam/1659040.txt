@@ -1,0 +1,1 @@
+﻿应用完补丁后删除Retail文件夹里的steam_api64.dll
