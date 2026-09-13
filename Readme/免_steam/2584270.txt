@@ -1,0 +1,14 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Mortal Shell II，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Mortal Shell II\Engine\Binaries\ThirdParty\Steamworks\Steamv157\Win64
+
+游戏主程序：
+D:\SteamGame\Mortal Shell II\MortalShell2\Binaries\Win64\MortalShell2-Win64-Shipping.exe
+
+Steam AppID ：
+2584270
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
