@@ -2,10 +2,10 @@
 详细教程（游戏本体默认安装在D:\SteamGame\Dont Starve，不是请对应修改）
 
 游戏文件夹 ：
-D:\SteamGame\Dont Starve\bin64
+D:\SteamGame\Dont Starve\bin
 
 游戏主程序：
-D:\SteamGame\Dont Starve\bin64\dontstarve_steam_x64.exe
+D:\SteamGame\Dont Starve\bin\dontstarve_steam.exe
 
 Steam AppID ：
 219740
