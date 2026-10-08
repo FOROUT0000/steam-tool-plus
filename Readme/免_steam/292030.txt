@@ -1,11 +1,11 @@
 ﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
-详细教程（游戏本体默认安装在D:\SteamGame\The Witcher 3 Wild Hunt，不是请对应修改）
+详细教程（游戏本体默认安装在D:\SteamGame\The Witcher 3 Wild Hunt   Remastered，不是请对应修改）
 
 游戏文件夹 ：
-D:\SteamGame\The Witcher 3 Wild Hunt\bin\x64
+D:\SteamGame\The Witcher 3 Wild Hunt   Remastered\bin\x64_dx12
 
 游戏主程序：
-D:\SteamGame\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe
+D:\SteamGame\The Witcher 3 Wild Hunt   Remastered\bin\x64_dx12\witcher3.exe
 
 Steam AppID ：
 292030
@@ -15,6 +15,7 @@ Steam AppID ：
 
 高级功能配置->DLC配置 取消解锁全部DLC
 DLC列表  输入：
+5006530 = The Witcher 3: Wild Hunt — Songs of the Past
 378649 = The Witcher 3: Wild Hunt - Hearts of Stone
 378648 = The Witcher 3: Wild Hunt - Blood and Wine
 378647 = The Witcher 3: Wild Hunt - NEW GAME +
