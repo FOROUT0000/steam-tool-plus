@@ -4,6 +4,9 @@
 游戏文件夹 ：
 D:\SteamGame\The Last of Us Part I
 
+Steam AppID ：
+1888930
+
 1.点击应用基础配置
 
 DLC配置：手动指定dlc，输入：
