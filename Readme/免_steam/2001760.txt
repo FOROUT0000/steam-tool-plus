@@ -7,8 +7,8 @@ D:\SteamGame\Beast of Reincarnation\Engine\Binaries\ThirdParty\Steamworks\Steamv
 Steam AppID ：
 2001760
 
-1.点击开始脱壳（失败就直接第二步）
-2.点击应用基础配置
+1.点击应用基础配置
+2.配置dlc，记得点保持配置
 
 高级功能配置->DLC配置 取消解锁全部DLC
 DLC列表  输入：
