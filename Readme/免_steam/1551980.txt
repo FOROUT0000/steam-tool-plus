@@ -2,17 +2,13 @@
 详细教程（游戏本体默认安装在D:\SteamGame\Clive Barker s Hellraiser Revival，不是请对应修改）
 
 游戏文件夹 ：
-D:\SteamGame\Clive Barker s Hellraiser Revival\
-
-游戏主程序：
-D:\SteamGame\Clive Barker s Hellraiser Revival\
+D:\SteamGame\Clive Barkers Hellraiser Revival\Engine\Binaries\ThirdParty\Steamworks\Steamv157\Win64
 
 Steam AppID ：
 1551980
 
-1.点击开始脱壳（失败就直接第二步）
-2.点击应用基础配置
-3.配置dlc，记得点保持配置
+1.点击应用基础配置
+2.配置dlc，记得点保持配置
 
 高级功能配置->DLC配置 手动指定DLC
 DLC列表  输入：
