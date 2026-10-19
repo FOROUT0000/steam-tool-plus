@@ -1,0 +1,18 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Knowledge or know Lady，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Knowledge or know Lady\Game\Game_Win_Data\Plugins\x86_64
+
+Steam AppID ：
+2786680
+
+1.点击应用基础配置
+2.重置
+
+D:\SteamGame\Knowledge or know Lady\LSP
+
+Steam AppID ：
+2786680
+
+3.点击应用基础配置
