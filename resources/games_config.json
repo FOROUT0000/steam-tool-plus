@@ -6005,18 +6005,26 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 3,
+        "patch_type": 0,
         "download_urls": [
           {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4K6x3umKdTnj6zVr7L2hWKA1?pwd=xq8f",
+            "pwd": "xq8f"
+          },
+          {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1y-5pPywSx4HxKA6VoKV70A?pwd=n8x",
-            "pwd": "n8x"
+            "url": "https://pan.baidu.com/s/1f8am1QFv7nY2U4WJlu5F7w?pwd=cvcu",
+            "pwd": "cvcu"
           }
         ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "2928600",
@@ -6025,18 +6033,26 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 3,
+        "patch_type": 0,
         "download_urls": [
           {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4K6-ahj_2CT6YNBJA4lOCjA1?pwd=ckxn",
+            "pwd": "ckxn"
+          },
+          {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1QJJHlph9OOnjgVtSO_EMBg?pwd=rvus",
-            "pwd": "rvus"
+            "url": "https://pan.baidu.com/s/1uQOmDiUwtb11-54WBhv9zw?pwd=sihw",
+            "pwd": "sihw"
           }
         ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "3274580",
@@ -12162,7 +12178,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12174,7 +12190,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": [
         {
@@ -12192,7 +12208,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12204,7 +12220,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": [
         {
@@ -12222,7 +12238,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12234,7 +12250,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12246,7 +12262,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12258,7 +12274,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12270,7 +12286,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12282,7 +12298,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12294,7 +12310,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": [
         {
@@ -12312,7 +12328,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": [
         {
@@ -12330,7 +12346,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12342,7 +12358,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12354,7 +12370,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12366,7 +12382,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -12378,7 +12394,7 @@
     "downloadable": false,
     "tags": [],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
@@ -14199,8 +14215,19 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 0,
-        "download_urls": []
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4E7kAje6kkVdBfxc14T3YFA1?pwd=2z7p",
+            "pwd": "2z7p"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/15twvcbjkrdPyfaalVGEZfA?pwd=ha8c",
+            "pwd": "ha8c"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -21293,6 +21320,393 @@
             "source": "baidu",
             "url": "https://pan.baidu.com/s/1fRxRgl2ULiq62R8T04t9cA?pwd=4kiq",
             "pwd": "4kiq"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "314650",
+    "game_name": "SpaceEngine",
+    "chinese_name": "太空引擎",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3883570",
+    "game_name": "Invokyr",
+    "chinese_name": "勇敢者之试炼 : Invokyr",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EApWNjwqjNqxfpAdQD2txA1?pwd=9f2d",
+            "pwd": "9f2d"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1ZXlI_ZnY0r3iX62SPnMfYA?pwd=wy7c",
+            "pwd": "wy7c"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "625960",
+    "game_name": "Stoneshard",
+    "chinese_name": "紫色晶石",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "690830",
+    "game_name": "Foundation",
+    "chinese_name": "基石",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "293780",
+    "game_name": "Crawl",
+    "chinese_name": "地牢爬行",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EB0YiR-faek7qjhFxaNb2A1?pwd=kv68",
+            "pwd": "kv68"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1wpCIO_0FLqMNNRsdA663dA?pwd=eby9",
+            "pwd": "eby9"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "304430",
+    "game_name": "INSIDE",
+    "chinese_name": "深入",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EBbotisoJtfUZ8YAOi0w5A1?pwd=adyu",
+            "pwd": "adyu"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/16CZXeksK3Nerx9M8lqNm4A?pwd=2xwk",
+            "pwd": "2xwk"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2929250",
+    "game_name": "over the hill",
+    "chinese_name": "越过山丘",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAsQS6s7_kbgy01p0m4AqA1?pwd=k6nb",
+            "pwd": "k6nb"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1XVbXw4Fu5NHiJZE0jao9jA?pwd=6rzs",
+            "pwd": "6rzs"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2254990",
+    "game_name": "Permafrost",
+    "chinese_name": "永冻纪元",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EB36ppTRuzFZpGHoonQ6tA1?pwd=32v2",
+            "pwd": "32v2"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/15fMG-SygGPn6fo55bM3Sig?pwd=15gc",
+            "pwd": "15gc"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2796180",
+    "game_name": "SILENT BREATH",
+    "chinese_name": "无声呼吸",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAxzpNFmApORYcrVwGjOwA1?pwd=b3gm",
+            "pwd": "b3gm"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1sEwgW9SK16wFrACL8QyG9A?pwd=9ukm",
+            "pwd": "9ukm"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2840470",
+    "game_name": "SimplePlanes 2",
+    "chinese_name": "简单飞机 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAYX8Jlm21YPqNzSw8-OxA1?pwd=q2ix",
+            "pwd": "q2ix"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Tn6tVMkJN3hIPThnkZSFzA?pwd=yn9a",
+            "pwd": "yn9a"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4227400",
+    "game_name": "Sineus Arena Survivors",
+    "chinese_name": "圣火守望者：共筑防线",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAVav5AgUTVSE_rqL5sR7A1?pwd=iqqw",
+            "pwd": "iqqw"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1dRIwzkyca9V7yMblR9rO-Q?pwd=snim",
+            "pwd": "snim"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4397060",
+    "game_name": "Sitting Ducks",
+    "chinese_name": "坐以待毙",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4E7puxFu68ZPrbihk1V4dqA1?pwd=a65b",
+            "pwd": "a65b"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Q8MqpsGLAHU43vw1eI8N3Q?pwd=fgga",
+            "pwd": "fgga"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1211980",
+    "game_name": "Skopje '83",
+    "chinese_name": "斯科普里83：湮灭前夕",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAmolKShV-_fltD1tRaYEA1?pwd=q6kn",
+            "pwd": "q6kn"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1S-kwfqpsUQTPiHvEM12hoA?pwd=vezz",
+            "pwd": "vezz"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3438850",
+    "game_name": "Sledding Game",
+    "chinese_name": "雪橇游戏",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAvcaZGZm5e8h7wHIZtb6A1?pwd=zp73",
+            "pwd": "zp73"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1_FbXQtNaEN6KfhTlkUPpHA?pwd=ix3i",
+            "pwd": "ix3i"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2698940",
+    "game_name": "The Crew Motorfest",
+    "chinese_name": "飙酷车神：轰鸣盛典",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4EAaawsh4bjVwnfs7F9KLOA1?pwd=vptx",
+            "pwd": "vptx"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1JlPAZWvdFTk5R5N0oLDCIg?pwd=z36p",
+            "pwd": "z36p"
           }
         ]
       }
