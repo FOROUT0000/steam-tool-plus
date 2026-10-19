@@ -1,0 +1,37 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\3DMark，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\3DMark\bin\x64
+
+
+Steam AppID ：
+223850
+
+1.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+3941790 = 3DMark Solar Bay Extreme
+2695340 = 3DMark Steel Nomad
+2313300 = 3DMark Solar Bay
+2019730 = 3DMark Speed Way upgrade
+1654370 = 3DMark CPU Profile benchmarks
+1498801 = 3DMark Sampler Feedback feature test
+1498800 = 3DMark Mesh Shader feature test
+1322770 = 3DMark Storage Benchmark
+1276160 = 3DMark Wild Life benchmark
+556150 = 3DMark VRS feature test
+496104 = 3DMark PCI Express feature test
+496103 = 3DMark Port Royal upgrade
+496102 = 3DMark Night Raid benchmark
+496101 = 3DMark Time Spy upgrade
+496100 = 3DMark Time Spy benchmark
+487680 = 3DMark Time Spy benchmark (Basic Edition OLD)
+428810 = VRMark Preview
+407080 = 3DMark API Overhead feature test
+406960 = 3DMark Cloud Gate benchmark
+406950 = 3DMark Ice Storm benchmark
+402290 = 3DMark Fire Strike benchmark
+393480 = 3DMark Sky Diver benchmark
+223852 = 3DMark Advanced
