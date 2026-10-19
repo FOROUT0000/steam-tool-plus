@@ -1,0 +1,1 @@
+﻿全部解压到根目录，并且bin目录删掉steam_api64.dll，然后启动WatchDogs2.exe这个就可以了
