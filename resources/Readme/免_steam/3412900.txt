@@ -1,0 +1,1 @@
+﻿应用完补丁后，运行 ​​ApplyOfflinePatch.bat ，再运行ThreeKingdom.exe
