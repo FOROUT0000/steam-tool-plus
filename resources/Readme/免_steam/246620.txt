@@ -1,0 +1,15 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Plague Inc Evolved，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Plague Inc Evolved\PlagueIncEvolved_Data\Plugins\x86_64
+
+Steam AppID ：
+246620
+
+1.点击应用基础配置
+
+2.高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+4508320 = Plague Inc: Aliens & Anti-Vaxxers
+1472780 = Plague Inc: The Cure
