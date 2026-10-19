@@ -1,0 +1,11 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Granny Remake，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Granny Remake\GrannyRemake\Engine\Plugins\Marketplace\SteamCor7b5ed4851e5eV11\Source\ThirdParty\SteamLibrary\redistributable_bin\win64
+
+Steam AppID ：
+2110820
+
+1.点击应用基础配置
+
