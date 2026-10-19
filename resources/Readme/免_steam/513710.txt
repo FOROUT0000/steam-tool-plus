@@ -1,0 +1,37 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+配置完之后运行方法：
+1.直接运行SCUM_Launcher.exe
+2.如果游戏没打开。就直接运行游戏文件夹\SCUM\Binaries\Win64\SCUM.exe，
+3.如果报错并卡死，任务管理器关闭SCUM.exe后再打开就能正常玩了
+详细教程（游戏本体默认安装在D:\SteamGame\SCUM，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\SCUM\Steamworks\Engine\Binaries\ThirdParty\Steamworks\Steamv151\Win64
+
+Steam AppID ：
+513710
+
+1.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+4635250 = SCUM Specialist Scout Pack
+4635240 = SCUM Specialist Archer Pack
+4635200 = SCUM Apex Predator Pack
+4635190 = SCUM Woodland Furniture Pack
+4529160 = SCUM Woodland Hunter Pack
+4369750 = SCUM Eastern Furniture Pack
+4139450 = SCUM Squad Emblem Pack
+4062860 = SCUM Base Building Decor Pack
+3596770 = SCUM Deluxe 3 (SCUM Deluxe Content Pack)
+2841840 = SCUM Raymond Cruz (SCUM Raymond Cruz Character Pack)
+2651750 = SCUM Dances 1 (SCUM Dance Pack)
+2651740 = SCUM Man Hair Deluxe 1 (SCUM Male Hair Pack)
+2651720 = SCUM Car Skins 1 (SCUM Vehicle Skins Pack)
+2517170 = SCUM Weapon Skins 1 (SCUM Weapon Skins Pack)
+2517160 = SCUM Charms 1 (SCUM Charms Pack)
+2371620 = SCUM Luis Moncada (SCUM Luis Moncada Character Pack)
+2321800 = SCUM Hair Deluxe 1 (SCUM Female Hair Pack)
+1990860 = SCUM Danny Trejo (SCUM: Danny Trejo Character Pack)
+1643210 = SCUM Deluxe 2 (SCUM Supporter Pack 2)
+919680 = SCUM Deluxe (SCUM Supporter Pack)
