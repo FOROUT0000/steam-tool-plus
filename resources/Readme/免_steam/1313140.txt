@@ -1,0 +1,46 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Cult of the Lamb，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Cult of the Lamb\Cult Of The Lamb_Data\Plugins\x86_64
+
+游戏主程序：
+D:\SteamGame\Cult of the Lamb\Cult Of The Lamb.exe
+
+Steam AppID ：
+1313140
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+4153050 = Cult of the Lamb - Woolhaven Twitch Drop LizardTongue
+4153040 = Cult of the Lamb - Woolhaven Twitch Drop Leech
+4153030 = Cult of the Lamb - Woolhaven Twitch Drop Jellyfish
+4153020 = Cult of the Lamb - Woolhaven Twitch Drop SeaButterfly
+4153010 = Cult of the Lamb - Woolhaven Twitch Drop AnglerFish
+3840050 = Cult of the Lamb: Woolhaven
+3017350 = Cult of the Lamb - Support a Streamer Pack
+2945140 = Cult of the Lamb - Goat Plant Twitch Drop
+2945130 = Cult of the Lamb - Goat Lantern Twitch Drop
+2945120 = Cult of the Lamb - Goat Statue Twitch Drop
+2890190 = Cult of the Lamb: Pilgrim Pack
+2647160 = Cult of the Lamb - Ghee Twitch Drop
+2647150 = Cult of the Lamb - Owe Twitch Drop
+2647140 = Cult of the Lamb - Pea Twitch Drop
+2646130 = Cult of the Lamb: Sinful Pack
+2331540 = Cult of the Lamb: Heretic Pack
+2202626 = Cult of the Lamb PAX East 2023 Bonus
+2202625 = Cult of the Lamb - Beefalo Skeleton Twitch Drop
+2202624 = Cult of the Lamb - Glommer Statue Twitch Drop
+2202623 = Cult of the Lamb - Pelican Twitch Drop
+2202622 = Cult of the Lamb - Kiwi Twitch Drop
+2202621 = Cult of the Lamb - Lion Twitch Drop
+2202620 = Cult of the Lamb - Penguin Twitch Drop
+2090901 = Cult of the Lamb - Pogchamp Twitch Drop
+2090900 = Cult of the Lamb - Ralpherz Twitch Drop
+2071370 = Cult of the Lamb - Frankerz Twitch Drop
+2015880 = Cult of the Lamb: Cultist Pack
+2013550 = Cult of the Lamb Pre-Order Bonus
+1944680 = Cult of the Lamb Plush Bonus
