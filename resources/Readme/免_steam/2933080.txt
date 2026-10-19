@@ -1,0 +1,31 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Crime Boss Rockay City，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Crime Boss Rockay City\Engine\Binaries\ThirdParty\Steamworks\Steamv157\Win64
+
+游戏主程序：
+D:\SteamGame\Crime Boss Rockay City\CrimeBoss.exe
+和
+D:\SteamGame\CrimeBoss\Binaries\Win64\CrimeBoss-Win64-Shipping.exe
+
+Steam AppID ：
+2933080
+
+1.点击开始脱壳（2个exe都试一下，都失败就直接第二步）
+2.点击应用基础配置
+
+高级功能配置->DLC配置 取消解锁全部DLC
+DLC列表  输入：
+4391860 = Crime Boss: Rockay City - Auction House
+4053730 = Crime Boss: Rockay City - Shaman Chase Character Pack (Crime Boss: Rockay City - Chase Character Pack)
+3916000 = Crime Boss: Rockay City - Smoke Character Pack
+3787350 = Crime Boss: Rockay City - Wiz Character Pack
+3634240 = Crime Boss: Rockay City - Hielo Character Pack
+3337580 = Crime Boss: Rockay City - Cracker Character Pack
+3245230 = Crime Boss: Rockay City - Jupiter Character Pack
+3115300 = Crime Boss: Rockay City - Baker's Bundle
+2939860 = Crime Boss: Rockay City - Cagnali's Order
+2934460 = Crime Boss: Rockay City - Heavy Hitters Pack
+2934450 = Crime Boss: Rockay City - Dragon's Gold Cup
+2934440 = Crime Boss: Rockay City - Tactical Weapon Pack
