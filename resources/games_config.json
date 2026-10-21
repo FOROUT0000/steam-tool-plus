@@ -50,6 +50,18 @@
     }
   },
   {
+    "game_id": "4435490",
+    "game_name": "Call of Duty®: Modern Warfare® 4",
+    "chinese_name": "使命召唤®：现代战争® 4",
+    "downloadable": false,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": false,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
     "game_id": "1623730",
     "game_name": "Palworld",
     "chinese_name": "幻兽帕鲁",
