@@ -14259,13 +14259,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP0Sdp_nNXKu3hoZuUNymbb0A1?pwd=j5fu",
-            "pwd": "j5fu"
+            "url": "https://pan.xunlei.com/s/VP4i90d8DxwyP_lUhviSivuvA1?pwd=beff",
+            "pwd": "beff"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1-RF6e6TL7tIM1OSCfGs2KQ?pwd=pgty",
-            "pwd": "pgty"
+            "url": "https://pan.baidu.com/s/14MenR-NJ-Wix6Gu-urwARg?pwd=2dwv",
+            "pwd": "2dwv"
           }
         ]
       }
@@ -19335,9 +19335,28 @@
     "game_name": "MOGGED: Looksmaxx or Die",
     "chinese_name": "颜值大逃杀",
     "downloadable": true,
-    "tags": [],
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4i8durbX1eTKVnTJg_nzJkA1?pwd=8jem",
+            "pwd": "8jem"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1d7MP6RROoq0sBa_N94Tckw?pwd=5e7k",
+            "pwd": "5e7k"
+          }
+        ]
+      }
+    ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1250900",
@@ -21719,6 +21738,242 @@
             "source": "baidu",
             "url": "https://pan.baidu.com/s/1JlPAZWvdFTk5R5N0oLDCIg?pwd=z36p",
             "pwd": "z36p"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1256670",
+    "game_name": "Library Of Ruina",
+    "chinese_name": "废墟图书馆",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "568220",
+    "game_name": "Lobotomy Corporation",
+    "chinese_name": "脑叶公司",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "550",
+    "game_name": "Left 4 Dead 2",
+    "chinese_name": "求生之路2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4iAxY2pGbawpp-PV20bZa8A1?pwd=vza4",
+            "pwd": "vza4"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1eqZXOTdfWjIZCyZDo8DSTg?pwd=jqhp",
+            "pwd": "jqhp"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1931770",
+    "game_name": "Chants of Sennaar",
+    "chinese_name": "巴别塔圣歌",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1371980",
+    "game_name": "No Rest for the Wicked",
+    "chinese_name": "恶意不息",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3569420",
+    "game_name": "Chained Beasts",
+    "chinese_name": "链兽角斗",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4i8tjjbX1eTKVnTJg_o9dcA1?pwd=ruyg",
+            "pwd": "ruyg"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1d2yBCQyMPjh0IejHnywT7g?pwd=cvxx",
+            "pwd": "cvxx"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4778540",
+    "game_name": "Lucid Cats",
+    "chinese_name": "清醒猫咪",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4i8bPgigAzdxOl93f1teZSA1?pwd=n9i6",
+            "pwd": "n9i6"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1R3Sxv233_e0t5tgnyNDTow?pwd=372t",
+            "pwd": "372t"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1260320",
+    "game_name": "Party Animals",
+    "chinese_name": "猛兽派对",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4i8xOvuDdR4mKa1Yp69u9oA1?pwd=ca7v",
+            "pwd": "ca7v"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/17DRP3qJs-9g-25CAeS5EyQ?pwd=2c6w",
+            "pwd": "2c6w"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4954910",
+    "game_name": "Scam With Your Friends",
+    "chinese_name": "和朋友一起搞诈骗",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4i8pd7aCJn_pVCKbaAEfX0A1?pwd=278u",
+            "pwd": "278u"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1JlvZINfyMigfLAQbeZb-BQ?pwd=busy",
+            "pwd": "busy"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2315050",
+    "game_name": "We Were Here Tomorrow",
+    "chinese_name": "我们曾到此：明日遗踪",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP4i8VBsUfTr0-BPA68zJHwvA1?pwd=y7sx",
+            "pwd": "y7sx"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1DGtxgr2Vukk_8SsZYT2T8w?pwd=47p7",
+            "pwd": "47p7"
           }
         ]
       }
