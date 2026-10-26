@@ -72,13 +72,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP2r-vt0gIoPqXsgDEYLsb3vA1?pwd=gywi",
-            "pwd": "gywi"
+            "url": "https://pan.xunlei.com/s/VP4t4tQ7mXkFLVCzX32ctTo6A1?pwd=spct",
+            "pwd": "spct"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/14BJWbeaTz3cgxPKEXLvxFw?pwd=p1fb",
-            "pwd": "p1fb"
+            "url": "https://pan.baidu.com/s/1booQCwDdEq6X92fdgzZljQ?pwd=dqpv",
+            "pwd": "dqpv"
           }
         ]
       },
@@ -14252,7 +14252,7 @@
     "game_id": "2661300",
     "game_name": "Grounded 2",
     "chinese_name": "禁闭求生2",
-    "downloadable": true,
+    "downloadable": false,
     "tags": [
       {
         "patch_type": 2,
@@ -14272,6 +14272,7 @@
     ],
     "has_extract_play": true,
     "has_steam_import": true,
+    "notes": "只能下载解压即玩来联机",
     "trainer": {
       "download_urls": []
     }
@@ -21983,5 +21984,95 @@
     "trainer": {
       "download_urls": []
     }
+  },
+  {
+    "game_id": "70",
+    "game_name": "Half-Life",
+    "chinese_name": "半条命",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "220",
+    "game_name": "Half-Life 2",
+    "chinese_name": "半条命2",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "312530",
+    "game_name": "Duck Game",
+    "chinese_name": "鸭王争霸",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "3080070",
+    "game_name": "Outer Space",
+    "chinese_name": "秩序：新曙光",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "236850",
+    "game_name": "Europa Universalis IV",
+    "chinese_name": "欧陆风云4",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "386940",
+    "game_name": "Ultimate Chicken Horse",
+    "chinese_name": "超级鸡马",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "204360",
+    "game_name": "Castle Crashers",
+    "chinese_name": "城堡破坏者",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "2336220",
+    "game_name": "Feed The Cups",
+    "chinese_name": "杯杯倒满",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "2399430",
+    "game_name": "Combat Kart",
+    "chinese_name": "战斗卡丁车",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "632300",
+    "game_name": "Hobo: Tough Life",
+    "chinese_name": "乞丐模拟器",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
   }
 ]
