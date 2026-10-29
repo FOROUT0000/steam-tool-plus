@@ -1,0 +1,19 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\ICEY，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\ICEY
+
+游戏主程序：
+D:\SteamGame\ICEY\ICEY.exe
+
+Steam AppID ：
+553640
+
+1.点击开始脱壳（失败就直接第二步）
+2.点击应用基础配置
+3.配置dlc，记得点保持配置
+
+高级功能配置->DLC配置 手动指定DLC
+DLC列表  输入：
+598710	ICEY - UCEY's Awakening
