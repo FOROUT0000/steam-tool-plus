@@ -8,13 +8,14 @@ AMD主板用戸搜索SVM
 
 2.Win+R 运行 optionalfeatures    关闭Hyper-V
 
-3.bcdedit /set hypervisorlaunchtype off，再次关闭Hyper-V
+3.cmd命令：bcdedit /set hypervisorlaunchtype off，再次关闭Hyper-V
 
-4.安全中心关闭 内存完整性
+4.安全中心关闭 内存完整性（其他的防火墙设置能关闭的也全都关闭）
 
 5.在c盘下新建一个文件夹叫dummy，将补丁文件里driver_amd或driver_intel（类似有amd或者intel标识的文件夹里）内的SimpleSvm.sys（amd）或hyperkd.sys（intel）复制粘贴进去
 
-6.sc create denuvo type=kernel start=demand binPath=C:\dummy\SimpleSvm.sys，创建兼容修复服务-AMD CPU
+6.cmd命令：
+sc create denuvo type=kernel start=demand binPath=C:\dummy\SimpleSvm.sys，创建兼容修复服务-AMD CPU
 sc create denuvo type=kernel start=demand binPath=C:\dummy\hyperkd.sys，创建兼容修复服务英特尔 CPU
 
 运行方法（配置完前置条件之后）
