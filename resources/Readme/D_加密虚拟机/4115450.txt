@@ -25,8 +25,8 @@ bcdedit /set testsigning off，测试模式关
 
 方法二.高级启动 ->疑难解答 -> 启动设置 ->重启 -> 按f7
 
-
-cmd命令（方法一或二都要）：
+按以上任意方法开机后：
+cmd命令（管理员身份）：
 sc start denuvo，启用兼容性修复服务
 sc stop denuvo，停止兼容性修复服务
 sc delete denuvo，卸载兼容性修复服务
