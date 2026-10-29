@@ -22,7 +22,7 @@
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
