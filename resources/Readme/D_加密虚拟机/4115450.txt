@@ -1,4 +1,5 @@
-！！！所有cmd命令都要以管理员身份运行
+！！！所有cmd命令都要以管理员身份运行（不懂的去让豆包教你）
+前置条件
 1.在主板bios中开启虚拟功能
 AMD主板用戸搜索SVM
 英特尔主板用戸搜索Intel Virtualization Technology
@@ -16,6 +17,8 @@ AMD主板用戸搜索SVM
 6.sc create denuvo type=kernel start=demand binPath=C:\dummy\SimpleSvm.sys，创建兼容修复服务-AMD CPU
 sc create denuvo type=kernel start=demand binPath=C:\dummy\hyperkd.sys，创建兼容修复服务英特尔 CPU
 
+运行方法（配置完前置条件之后）
+
 方法一.关闭安全启动 (Secure Boot)+测试模式
 bcdedit /set testsigning on，测试模式开（开后要重启）
 bcdedit /set testsigning off，测试模式关
@@ -23,13 +26,11 @@ bcdedit /set testsigning off，测试模式关
 方法二.高级启动 ->疑难解答 -> 启动设置 ->重启 -> 按f7
 
 
-
-cmd命令：
+cmd命令（方法一或二都要）：
 sc start denuvo，启用兼容性修复服务
 sc stop denuvo，停止兼容性修复服务
 sc delete denuvo，卸载兼容性修复服务
 
-启动游戏：右键点击steamclient_loader_x64.exe->以管理员身份运行
+启动游戏：右键点击该游戏的exe（比如影之刃零是"游戏根目录\platform\steam\PBZ.exe）或者steamclient_loader_x64.exe（如果有）->以管理员身份运行
 
-
-搬运工：鲸落_hi    B站主页：https://space.bilibili.com/405707676
+鲸落_hi    B站主页：https://space.bilibili.com/405707676
