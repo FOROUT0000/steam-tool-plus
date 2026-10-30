@@ -22,7 +22,8 @@
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": false,
+    "has_steam_import": true,
+    "notes": "以管理员身份运行 !start_sp26.bat",
     "trainer": {
       "download_urls": []
     }
