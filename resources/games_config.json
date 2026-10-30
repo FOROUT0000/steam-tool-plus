@@ -29,6 +29,62 @@
     }
   },
   {
+    "game_id": "2638890",
+    "game_name": "Onimusha: Way of the Sword",
+    "chinese_name": "鬼武者：剑之道",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5CeFTLe_LflgU5PcswxO6hA1?pwd=q2rx",
+            "pwd": "q2rx"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Qs2MdNBOYxR5Lb5bD4s6SA?pwd=eqby",
+            "pwd": "eqby"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2288340",
+    "game_name": "ACE COMBAT 8: WINGS OF THEVE",
+    "chinese_name": "空战奇兵8 希孚之翼",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5Ce9hZGvTcGuqe-FdUUYwFA1?pwd=qmb3",
+            "pwd": "qmb3"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1v4jqKukRyghmhcLn_JjsOg?pwd=d4qf",
+            "pwd": "d4qf"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
     "game_id": "431960",
     "game_name": "Wallpaper Engine",
     "chinese_name": "壁纸引擎",
