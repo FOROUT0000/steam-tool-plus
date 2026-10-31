@@ -1,1 +1,0 @@
-﻿把Ascend to ZERO\MementoMori\Binaries\WinGDK里的steam_api64.dll删掉（没有就不管）

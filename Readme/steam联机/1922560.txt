@@ -1,5 +1,0 @@
-1. 通过CypressLauncher.exe启动游戏
-
-2. 登录你的Electronic Arts账号
-
-3. 在启动器中选择Garden Warfare 2 并将游戏路径设置成Game path where GW2.Main_Win64_Retail.exe所在文件夹
