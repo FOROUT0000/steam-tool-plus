@@ -1,28 +1,5 @@
 [
   {
-    "game_id": "3751260",
-    "game_name": "The Blood of Dawnwalker",
-    "chinese_name": "黎明行者之血",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": []
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": [
-        {
-          "source": "thunder",
-          "url": "https://pan.xunlei.com/s/VP2LVoP9PkDYXwGdEVMCXpFcA1?pwd=mzug",
-          "pwd": "mzug"
-        }
-      ]
-    }
-  },
-  {
     "game_id": "4115450",
     "game_name": "Phantom Blade Zero",
     "chinese_name": "影之刃零",
@@ -3137,6 +3114,29 @@
           "source": "thunder",
           "url": "https://pan.xunlei.com/s/VP2LTthGJ1CSBStRhcUoLZF4A1?pwd=h4an",
           "pwd": "h4an"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": "3751260",
+    "game_name": "The Blood of Dawnwalker",
+    "chinese_name": "黎明行者之血",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": [
+        {
+          "source": "thunder",
+          "url": "https://pan.xunlei.com/s/VP2LVoP9PkDYXwGdEVMCXpFcA1?pwd=mzug",
+          "pwd": "mzug"
         }
       ]
     }
