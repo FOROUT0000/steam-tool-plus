@@ -1,5 +1,28 @@
 [
   {
+    "game_id": "3751260",
+    "game_name": "The Blood of Dawnwalker",
+    "chinese_name": "黎明行者之血",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": [
+        {
+          "source": "thunder",
+          "url": "https://pan.xunlei.com/s/VP2LVoP9PkDYXwGdEVMCXpFcA1?pwd=mzug",
+          "pwd": "mzug"
+        }
+      ]
+    }
+  },
+  {
     "game_id": "4115450",
     "game_name": "Phantom Blade Zero",
     "chinese_name": "影之刃零",
@@ -268,44 +291,6 @@
     }
   },
   {
-    "game_id": "4570720",
-    "game_name": "DragonSword : Awakening",
-    "chinese_name": "龙之剑：觉醒",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 2,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOyE7Fc6pwnmZR5cYEh03SubA1?pwd=ebhe",
-            "pwd": "ebhe"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1Fy0ow1bfxo5SRKZmZsv_Wg?pwd=e7dp",
-            "pwd": "e7dp"
-          }
-        ]
-      },
-      {
-        "patch_type": 0,
-        "download_urls": []
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": [
-        {
-          "source": "thunder",
-          "url": "https://pan.xunlei.com/s/VOygGltO9gX3OBYmbN6MdWIOA1?pwd=4xs7",
-          "pwd": "4xs7"
-        }
-      ]
-    }
-  },
-  {
     "game_id": "1250410",
     "game_name": "MicrosoftFlightSimulator2020",
     "chinese_name": "微软模拟飞行2020（(支持多人在线+卫星地景串流）",
@@ -534,55 +519,6 @@
     }
   },
   {
-    "game_id": "2806050",
-    "game_name": "Halo: Campaign Evolved",
-    "chinese_name": "光环：战役进化",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOyJ-MHTkZ_rIZheyNMVbqVXA1?pwd=uxx8",
-            "pwd": "uxx8"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1MaL3VQUQAgVFS-dy11HdPA?pwd=pbwm",
-            "pwd": "pbwm"
-          }
-        ]
-      },
-      {
-        "patch_type": 5,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOyYjWVYI900EvjFzhuBKnimA1?pwd=u78g",
-            "pwd": "u78g"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1Jur7J35KwRQvH5NiDeB69A?pwd=cu74",
-            "pwd": "cu74"
-          }
-        ]
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": [
-        {
-          "source": "thunder",
-          "url": "https://pan.xunlei.com/s/VOygTYEWixSt1159gxE3k_PiA1?pwd=ft53",
-          "pwd": "ft53"
-        }
-      ]
-    }
-  },
-  {
     "game_id": "4356430",
     "game_name": "NBA 2K27",
     "chinese_name": "NBA 2K27",
@@ -653,29 +589,6 @@
     "has_steam_import": true,
     "trainer": {
       "download_urls": []
-    }
-  },
-  {
-    "game_id": "3751260",
-    "game_name": "The Blood of Dawnwalker",
-    "chinese_name": "黎明行者之血",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": []
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": [
-        {
-          "source": "thunder",
-          "url": "https://pan.xunlei.com/s/VP2LVoP9PkDYXwGdEVMCXpFcA1?pwd=mzug",
-          "pwd": "mzug"
-        }
-      ]
     }
   },
   {
@@ -796,34 +709,6 @@
           "pwd": "it5c"
         }
       ]
-    }
-  },
-  {
-    "game_id": "3905450",
-    "game_name": "WheelMates",
-    "chinese_name": "双轮成行",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 2,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP0lvHurKmj9G4P3I_8hc_kGA1?pwd=t63m",
-            "pwd": "t63m"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1QlAejcH0EUcz5F2U7Rbvpg?pwd=1h9k",
-            "pwd": "1h9k"
-          }
-        ]
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": []
     }
   },
   {
@@ -1289,10 +1174,26 @@
     "game_id": "2246340",
     "game_name": "Monster Hunter Wilds",
     "chinese_name": "怪物猎人：荒野",
-    "downloadable": false,
-    "tags": [],
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I6HEVL-07NhzCysKYJ8LQA1?pwd=gxnz",
+            "pwd": "gxnz"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1XojVOzOX-uEDdAZgtTrcWg?pwd=76hg",
+            "pwd": "76hg"
+          }
+        ]
+      }
+    ],
     "has_extract_play": true,
-    "has_steam_import": false,
+    "has_steam_import": true,
     "trainer": {
       "download_urls": [
         {
@@ -1479,26 +1380,27 @@
     "game_id": "3321460",
     "game_name": "Crimson Desert",
     "chinese_name": "红色沙漠",
-    "downloadable": false,
+    "downloadable": true,
     "tags": [
       {
-        "patch_type": 0,
+        "patch_type": 3,
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOzTtRwXmKhQh3790TzqR9kWA1?pwd=ex64",
-            "pwd": "ex64"
+            "url": "https://pan.xunlei.com/s/VP5I7zBa6SsVYF7JejH0ZlL5A1?pwd=p5my",
+            "pwd": "p5my"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1EnyI1hNq2MWPIjSooL9etg?pwd=gxn4",
-            "pwd": "gxn4"
+            "url": "https://pan.baidu.com/s/1uPyMVtAqlVSG8nP-27Kg3Q?pwd=8exw",
+            "pwd": "8exw"
           }
         ]
       }
     ],
     "has_extract_play": true,
     "has_steam_import": true,
+    "notes": "D加密破解版请下载解压即玩版本，程序只提供虚拟化版本",
     "trainer": {
       "download_urls": [
         {
@@ -2871,6 +2773,44 @@
     }
   },
   {
+    "game_id": "4570720",
+    "game_name": "DragonSword : Awakening",
+    "chinese_name": "龙之剑：觉醒",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VOyE7Fc6pwnmZR5cYEh03SubA1?pwd=ebhe",
+            "pwd": "ebhe"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Fy0ow1bfxo5SRKZmZsv_Wg?pwd=e7dp",
+            "pwd": "e7dp"
+          }
+        ]
+      },
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": [
+        {
+          "source": "thunder",
+          "url": "https://pan.xunlei.com/s/VOygGltO9gX3OBYmbN6MdWIOA1?pwd=4xs7",
+          "pwd": "4xs7"
+        }
+      ]
+    }
+  },
+  {
     "game_id": "916440",
     "game_name": "Anno 1800",
     "chinese_name": "纪元 1800",
@@ -3251,15 +3191,23 @@
         "patch_type": 3,
         "download_urls": [
           {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I8IVrU08OikeG4-s2_L18A1?pwd=zevw",
+            "pwd": "zevw"
+          },
+          {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/10DLGvZPmsV77N4BKYjdLZQ?pwd=dhib",
-            "pwd": "dhib"
+            "url": "https://pan.baidu.com/s/13MwEfV3j1OHwjrqyRL6Zgg?pwd=69ha",
+            "pwd": "69ha"
           }
         ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "2840770",
@@ -3291,6 +3239,55 @@
           "source": "thunder",
           "url": "https://pan.xunlei.com/s/VP-2qBw1Rc5MUYPtq46Yso90A1?pwd=bk7h",
           "pwd": "bk7h"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": "2806050",
+    "game_name": "Halo: Campaign Evolved",
+    "chinese_name": "光环：战役进化",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VOyJ-MHTkZ_rIZheyNMVbqVXA1?pwd=uxx8",
+            "pwd": "uxx8"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1MaL3VQUQAgVFS-dy11HdPA?pwd=pbwm",
+            "pwd": "pbwm"
+          }
+        ]
+      },
+      {
+        "patch_type": 5,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VOyYjWVYI900EvjFzhuBKnimA1?pwd=u78g",
+            "pwd": "u78g"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Jur7J35KwRQvH5NiDeB69A?pwd=cu74",
+            "pwd": "cu74"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": [
+        {
+          "source": "thunder",
+          "url": "https://pan.xunlei.com/s/VOygTYEWixSt1159gxE3k_PiA1?pwd=ft53",
+          "pwd": "ft53"
         }
       ]
     }
@@ -3520,6 +3517,34 @@
           "pwd": "pyfc"
         }
       ]
+    }
+  },
+  {
+    "game_id": "3905450",
+    "game_name": "WheelMates",
+    "chinese_name": "双轮成行",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP0lvHurKmj9G4P3I_8hc_kGA1?pwd=t63m",
+            "pwd": "t63m"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1QlAejcH0EUcz5F2U7Rbvpg?pwd=1h9k",
+            "pwd": "1h9k"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
     }
   },
   {
@@ -4862,11 +4887,25 @@
     "tags": [
       {
         "patch_type": 3,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I6tunrtt6mGcixmQEjyMVA1?pwd=ci6r",
+            "pwd": "ci6r"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1wSn1Jwcouddqlv7K7D_3_w?pwd=6txb",
+            "pwd": "6txb"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1029690",
@@ -5058,11 +5097,25 @@
     "tags": [
       {
         "patch_type": 3,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I6kumvSOdDUhK0Itt2H4uA1?pwd=vzvh",
+            "pwd": "vzvh"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1-FqVTktslQtT5iFfesF1vQ?pwd=f9ud",
+            "pwd": "f9ud"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "2842040",
@@ -5128,11 +5181,25 @@
     "tags": [
       {
         "patch_type": 3,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I7O4ldN_AOFy9YeDuxCuNA1?pwd=xmak",
+            "pwd": "xmak"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1dgZdKtLEDkVa5Dxb72_BJA?pwd=gngj",
+            "pwd": "gngj"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1971870",
@@ -5170,11 +5237,25 @@
     "tags": [
       {
         "patch_type": 3,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I6VI35_v7qpgmnJ5qL4BdA1?pwd=nys2",
+            "pwd": "nys2"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1q2PbDvg4Litqm5j7yGNwbg?pwd=k5dm",
+            "pwd": "k5dm"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1569040",
@@ -5313,15 +5394,23 @@
         "patch_type": 3,
         "download_urls": [
           {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I73m-uuPi-HUB283q1B-XA1?pwd=tzqx",
+            "pwd": "tzqx"
+          },
+          {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1obLQ2Xez941Sh1vfSBbRfQ?pwd=7999",
-            "pwd": "7999"
+            "url": "https://pan.baidu.com/s/1j1jwMdeYhnR67bSs5XX43Q?pwd=y7n5",
+            "pwd": "y7n5"
           }
         ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1239520",
@@ -10988,11 +11077,22 @@
     "game_id": "2185060",
     "game_name": "Two Point Museum",
     "chinese_name": "双点博物馆",
-    "downloadable": false,
+    "downloadable": true,
     "tags": [
       {
-        "patch_type": 0,
-        "download_urls": []
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I62lZ9Qb-gjbL6r1nFX3mA1?pwd=wkg9",
+            "pwd": "wkg9"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1EfLk2t2uSzjfnMuu53WmcA?pwd=62x4",
+            "pwd": "62x4"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -17546,20 +17646,20 @@
     "game_id": "4080220",
     "game_name": "EA SPORTS FC™ 27",
     "chinese_name": "EA SPORTS FC™ 27",
-    "downloadable": false,
+    "downloadable": true,
     "tags": [
       {
-        "patch_type": 0,
+        "patch_type": 3,
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP2E2GY70LXuogVyZRtM76OFA1?pwd=s9vy",
-            "pwd": "s9vy"
+            "url": "https://pan.xunlei.com/s/VP5I5sWNZ_pcwQDaAQbjehbtA1?pwd=p726",
+            "pwd": "p726"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1NUG9cH2DxHCT0MYF2DJaSQ?pwd=kxwe",
-            "pwd": "kxwe"
+            "url": "https://pan.baidu.com/s/19ee04kepV2n91r7tBNf1vQ?pwd=heu1",
+            "pwd": "heu1"
           }
         ]
       }
@@ -22326,6 +22426,90 @@
       {
         "patch_type": 0,
         "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3219030",
+    "game_name": "Planet Zoo 2",
+    "chinese_name": "动物园之星 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I7Ecza3dIwTefL0ME43p1A1?pwd=ncak",
+            "pwd": "ncak"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1AqM5IPDSmBSu1dLBZcfAWg?pwd=r2aa",
+            "pwd": "r2aa"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3259780",
+    "game_name": "FINAL FANTASY RESONANCE",
+    "chinese_name": "最终幻想：共鸣",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I7pvfocb23Ht-f7JIBdV3A1?pwd=jmgx",
+            "pwd": "jmgx"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1mr4lSDL3uc6gGwfkuzZSnw?pwd=mq3t",
+            "pwd": "mq3t"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3717070",
+    "game_name": "WWE 2K26",
+    "chinese_name": "WWE 2K26",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5I6c6odwxpJXPM-ut6-xWdA1?pwd=iwij",
+            "pwd": "iwij"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1kCVoROKWpo9HS8eAYfc-lA?pwd=wn1i",
+            "pwd": "wn1i"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
