@@ -3168,18 +3168,26 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 3,
+        "patch_type": 2,
         "download_urls": [
           {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5Ju7R8pvp0lw8r45mVbP99A1?pwd=ictm",
+            "pwd": "ictm"
+          },
+          {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1ye7p-_zS27pKIqRLL8rLSg?pwd=t75f",
-            "pwd": "t75f"
+            "url": "https://pan.baidu.com/s/1DJkDAlWG1T7QU61MEHkbQw?pwd=7733",
+            "pwd": "7733"
           }
         ]
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "2958130",
@@ -19519,7 +19527,7 @@
   {
     "game_id": "4917440",
     "game_name": "MOGGED: Looksmaxx or Die",
-    "chinese_name": "颜值大逃杀",
+    "chinese_name": "变帅或赴死",
     "downloadable": true,
     "tags": [
       {
@@ -19527,13 +19535,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP4i8durbX1eTKVnTJg_nzJkA1?pwd=8jem",
-            "pwd": "8jem"
+            "url": "https://pan.xunlei.com/s/VP5JuZmHRB7m7MXwriTKlv6NA1?pwd=eyag",
+            "pwd": "eyag"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1d7MP6RROoq0sBa_N94Tckw?pwd=5e7k",
-            "pwd": "5e7k"
+            "url": "https://pan.baidu.com/s/1kVxwC7TTKCbkHpo1eglzaA?pwd=wb9s",
+            "pwd": "wb9s"
           }
         ]
       }
@@ -22041,13 +22049,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP4i8tjjbX1eTKVnTJg_o9dcA1?pwd=ruyg",
-            "pwd": "ruyg"
+            "url": "https://pan.xunlei.com/s/VP5JuJUIavWaqridpH2aWKy1A1?pwd=etx9",
+            "pwd": "etx9"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1d2yBCQyMPjh0IejHnywT7g?pwd=cvxx",
-            "pwd": "cvxx"
+            "url": "https://pan.baidu.com/s/1hO8cfMTTXm_ZWbqVpRrB_Q?pwd=8spd",
+            "pwd": "8spd"
           }
         ]
       }
@@ -22069,13 +22077,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP4i8bPgigAzdxOl93f1teZSA1?pwd=n9i6",
-            "pwd": "n9i6"
+            "url": "https://pan.xunlei.com/s/VP5JupmLocb23Ht-f7JJakrVA1?pwd=n3wq",
+            "pwd": "n3wq"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1R3Sxv233_e0t5tgnyNDTow?pwd=372t",
-            "pwd": "372t"
+            "url": "https://pan.baidu.com/s/1Amge2dFTG2iwc5aeatnD-g?pwd=2gcx",
+            "pwd": "2gcx"
           }
         ]
       }
@@ -22405,8 +22413,8 @@
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1D17uG7ualgDWgs9I3qqfwA?pwd=r1cu",
-            "pwd": "r1cu"
+            "url": "https://pan.baidu.com/s/19suQgQd_4Kk8Uc8nj4iVtA?pwd=q3j5",
+            "pwd": "q3j5"
           }
         ]
       }
@@ -22508,6 +22516,485 @@
             "source": "baidu",
             "url": "https://pan.baidu.com/s/1kCVoROKWpo9HS8eAYfc-lA?pwd=wn1i",
             "pwd": "wn1i"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3228590",
+    "game_name": "Deadzone: Rogue",
+    "chinese_name": "死域 Rogue",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4986890",
+    "game_name": "Old Market Restored",
+    "chinese_name": "菜市场模拟器：美食满屋",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1621690",
+    "game_name": "Core Keeper",
+    "chinese_name": "护核纪元",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5JuiXYA8BI3DAFlh1xKVrMA1?pwd=7c2w",
+            "pwd": "7c2w"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1BamY927z-P4r197_lK6s3g?pwd=2ist",
+            "pwd": "2ist"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1879330",
+    "game_name": "WARRIORS OROCHI 3 Ultimate Definitive Edition",
+    "chinese_name": "无双大蛇２ 终极版",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "831560",
+    "game_name": "WARRIORS OROCHI 4",
+    "chinese_name": "无双OROCHI 蛇魔 3",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5JuzQvKsEs7zhCiF22XqGZA1?pwd=fb9w",
+            "pwd": "fb9w"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1w3k0O8K3g_rafBUULyr-4Q?pwd=4jwu",
+            "pwd": "4jwu"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5212940",
+    "game_name": "Bunker Tidy Up",
+    "chinese_name": "地堡整理",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "895870",
+    "game_name": "Project Wingman",
+    "chinese_name": "僚机计划",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "863550",
+    "game_name": "HITMAN™ 2",
+    "chinese_name": "杀手 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2401970",
+    "game_name": "Ace Attorney Investigations Collection",
+    "chinese_name": "逆转检察官1&2 御剑精选集",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "674940",
+    "game_name": "Stick Fight: The Game",
+    "chinese_name": "火柴人战斗",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5JuWKWavWaqridpH2aWWW0A1?pwd=vccc",
+            "pwd": "vccc"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1smPQXg2lXiFCACu6OTPybg?pwd=k3x5",
+            "pwd": "k3x5"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3444020",
+    "game_name": "Demonic Mahjong",
+    "chinese_name": "我在地府打麻将",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1040200",
+    "game_name": "Crime Scene Cleaner",
+    "chinese_name": "犯罪现场清洁工",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2071280",
+    "game_name": "Ravenswatch",
+    "chinese_name": "鸦卫奇旅",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "246900",
+    "game_name": "Viscera Cleanup Detail",
+    "chinese_name": "内脏清理细节",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5Ju3dBN3cbm_C0L-o4Pa0GA1?pwd=ev5d",
+            "pwd": "ev5d"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1X2IFT3N6hXpOew3lpDdd5g?pwd=nj65",
+            "pwd": "nj65"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "673750",
+    "game_name": "Super Bunny Man",
+    "chinese_name": "超级兔子人",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1384160",
+    "game_name": "GUILTY GEAR -STRIVE-",
+    "chinese_name": "罪恶装备：斗争",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 5,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3167020",
+    "game_name": "Escape from Duckov",
+    "chinese_name": "逃离鸭科夫",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "235460",
+    "game_name": "METAL GEAR RISING: REVENGEANCE",
+    "chinese_name": "合金装备崛起：复仇",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "10150",
+    "game_name": "Prototype",
+    "chinese_name": "虐杀原形",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3560360",
+    "game_name": "Forsworn",
+    "chinese_name": "背弃者",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5Jv3ECeuzuajYw4tixO80EA1?pwd=tcc6",
+            "pwd": "tcc6"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1vw9tSs6DVmgWlX82syJC5w?pwd=7ydz",
+            "pwd": "7ydz"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5155360",
+    "game_name": "Hood Warfare 2",
+    "chinese_name": "街区战争 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5JuwmTKsEs7zhCiF22Xmw4A1?pwd=nh9e",
+            "pwd": "nh9e"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1sKr_Xm_fo9xnYwz2ZiYL6Q?pwd=cs8u",
+            "pwd": "cs8u"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4968640",
+    "game_name": "Japanese Ramen Simulator",
+    "chinese_name": "日本拉面模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5Jv6bTr-KOxTw_UrfSwUXuA1?pwd=mtcc",
+            "pwd": "mtcc"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1SPuVxYo8c88FfIAj9aAByg?pwd=syvn",
+            "pwd": "syvn"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5335510",
+    "game_name": "Moon Sweepers",
+    "chinese_name": "月球清扫员",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5JuTBFBOB7i-TsuS2--qhiA1?pwd=f9j8",
+            "pwd": "f9j8"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1pqHzS5svjcENgyhu9Tb8qw?pwd=rfij",
+            "pwd": "rfij"
           }
         ]
       }
