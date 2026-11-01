@@ -21234,18 +21234,34 @@
     "game_name": "Two Point Hospital",
     "chinese_name": "双点医院",
     "downloadable": true,
-    "tags": [],
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1649080",
     "game_name": "Two Point Campus",
     "chinese_name": "双点校园",
     "downloadable": true,
-    "tags": [],
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
     "has_extract_play": true,
-    "has_steam_import": true
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
   },
   {
     "game_id": "1574900",
