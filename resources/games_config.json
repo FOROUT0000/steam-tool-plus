@@ -34,17 +34,17 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 3,
+        "patch_type": 0,
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP5CeFTLe_LflgU5PcswxO6hA1?pwd=q2rx",
-            "pwd": "q2rx"
+            "url": "https://pan.xunlei.com/s/VP5K5LYXsRMUahe0U9MBSXCfA1?pwd=psb6",
+            "pwd": "psb6"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1Qs2MdNBOYxR5Lb5bD4s6SA?pwd=eqby",
-            "pwd": "eqby"
+            "url": "https://pan.baidu.com/s/1DVicldnbOXnptMgtVdiyPg?pwd=devd",
+            "pwd": "devd"
           }
         ]
       }
