@@ -1,0 +1,120 @@
+# Palworld / 幻兽帕鲁
+# 偏移表来源：从 FLiNG Palworld v1.0 Plus 48 运行时 codecave 抄出（已实机验证）
+# 生成时间：2026-11-01
+
+[game]
+id       = "palworld"
+name     = "Palworld / 幻兽帕鲁"
+process  = "Palworld-Win64-Shipping.exe"
+module   = "Palworld-Win64-Shipping.exe"
+arch     = "x64"
+engine   = "ue5"
+version  = "2026-11-01"
+
+# Pawn 指针不写进这份分发的配置：每次 attach 时由 hook 实时抓取（进世界后地址必然不同）。
+# 想离线调试再手工填一行 root = "0x..."，注意别提交上去。
+# root = "0x0"
+
+# ── UE 偏移表（全部实测值，供 cheat 用 {名称} 引用）──────────────
+[game.offsets]
+# PalPlayerCharacter
+PC                  = "0x630"   # -> CharacterParameterComponent
+PC_STATE            = "0x2b0"   # -> PlayerState
+# PalCharacterParameterComponent
+PARAM_INDIV         = "0x178"   # -> IndividualCharacterParameter
+SP_CUR              = "0x4b0"   # 当前耐力
+# PalIndividualCharacterParameter
+INDIV_SAVE          = "0x3d0"   # -> SaveParameter
+# PalIndividualCharacterSaveParameter
+S_HP                = "0x078"
+S_FOOD              = "0x084"
+S_ISPLAYER          = "0x0b0"
+S_MAXHP             = "0x0e0"
+S_SHIELD            = "0x100"
+S_SHIELDMAX         = "0x108"
+S_MAXSP             = "0x120"
+S_SANITY            = "0x12c"
+S_MAXFOOD           = "0x16c"
+# PalPlayerState
+PPS_INV             = "0x638"   # -> InventoryData
+PPS_TECH            = "0x648"   # -> TechnologyData
+# BP_PalPlayerInventoryData_C
+INV_MAXWEIGHT       = "0x188"
+# PalTechnologyData
+TECH_POINT          = "0x150"
+
+# ── AOB 签名（每条可挂多条候选，按顺序试）────────────────────────
+[[symbols]]
+id       = "aobplayerstats"
+patterns = [
+  "80 BF s1.2 00 00 00 74 * F3 0F 10 * * * * * * * * E8 * * * * * * * * * E8",
+]
+expect_rva = "0x316e692"
+
+# ── 作弊项 ──────────────────────────────────────────────────────
+# steps 说明：[0xNNN] = 解引用（p = *(p+off)）；+0xNNN = 只加偏移
+
+[[cheats]]
+id     = "stamina"
+name   = "无限耐力"
+steps  = ["[{PC}]"]
+offset = "{SP_CUR}"
+type   = "i64"
+source_steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+source_offset = "{S_MAXSP}"
+sane_min = 0
+sane_max = 10000000
+default_on = true
+
+[[cheats]]
+id     = "hp"
+name   = "无限生命"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_HP}"
+type   = "i64"
+value  = 99999000
+sane_min = 1
+sane_max = 100000000000
+
+[[cheats]]
+id     = "shield"
+name   = "无限护盾"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_SHIELD}"
+type   = "i64"
+value  = 9999999000
+sane_min = 1
+sane_max = 100000000000
+
+[[cheats]]
+id     = "food"
+name   = "无限饱食"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_FOOD}"
+type   = "f32"
+source_steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+source_offset = "{S_MAXFOOD}"
+
+[[cheats]]
+id     = "sanity"
+name   = "精神值满"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_SANITY}"
+type   = "f32"
+value  = 100.0
+
+[[cheats]]
+id     = "weight"
+name   = "负重上限"
+steps  = ["[{PC_STATE}]", "[{PPS_INV}]"]
+offset = "{INV_MAXWEIGHT}"
+type   = "f32"
+value  = 9999.0
+
+[[cheats]]
+id     = "tech"
+name   = "科技点"
+steps  = ["[{PC_STATE}]", "[{PPS_TECH}]"]
+offset = "{TECH_POINT}"
+type   = "i32"
+value  = 999
