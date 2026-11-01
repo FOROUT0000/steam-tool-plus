@@ -35,13 +35,20 @@ S_SHIELDMAX         = "0x108"
 S_MAXSP             = "0x120"
 S_SANITY            = "0x12c"
 S_MAXFOOD           = "0x16c"
+S_STATUS_POINT      = "0x174"   # 未分配属性点（i32）
+S_CRAFT_SPEED       = "0x0ec"   # 制作速度（i32，默认 550）
 # PalPlayerState
 PPS_INV             = "0x638"   # -> InventoryData
 PPS_TECH            = "0x648"   # -> TechnologyData
 # BP_PalPlayerInventoryData_C
 INV_MAXWEIGHT       = "0x188"
+INV_MAXWEIGHT_CACHE = "0x18c"   # UI 读的是这个缓存值，必须同步写
 # PalTechnologyData
 TECH_POINT          = "0x150"
+TECH_BOSS_POINT     = "0x154"   # 古代科技点（i32）
+# Pawn 本体
+P_TIME_DILATION     = "0x064"   # 游戏速度（f32，默认 1.0）
+P_JUMP_MAX          = "0x424"   # 最大跳跃次数（i32，默认 1）
 
 # ── AOB 签名（每条可挂多条候选，按顺序试）────────────────────────
 [[symbols]]
@@ -55,20 +62,10 @@ expect_rva = "0x316e692"
 # steps 说明：[0xNNN] = 解引用（p = *(p+off)）；+0xNNN = 只加偏移
 
 [[cheats]]
-id     = "stamina"
-name   = "无限耐力"
-steps  = ["[{PC}]"]
-offset = "{SP_CUR}"
-type   = "i64"
-source_steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
-source_offset = "{S_MAXSP}"
-sane_min = 0
-sane_max = 10000000
-default_on = true
-
-[[cheats]]
 id     = "hp"
 name   = "无限生命"
+group  = "生存"
+desc   = "血量锁定在极大值，受伤后立即回满"
 steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
 offset = "{S_HP}"
 type   = "i64"
@@ -79,6 +76,8 @@ sane_max = 100000000000
 [[cheats]]
 id     = "shield"
 name   = "无限护盾"
+group  = "生存"
+desc   = "护盾值锁定，破盾后立即恢复"
 steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
 offset = "{S_SHIELD}"
 type   = "i64"
@@ -87,34 +86,146 @@ sane_min = 1
 sane_max = 100000000000
 
 [[cheats]]
+id     = "stamina"
+name   = "无限耐力"
+group  = "生存"
+desc   = "冲刺、攀爬不再消耗耐力"
+steps  = ["[{PC}]"]
+offset = "{SP_CUR}"
+type   = "i64"
+source_steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+source_offset = "{S_MAXSP}"
+sane_min = 0
+sane_max = 10000000
+
+[[cheats]]
 id     = "food"
 name   = "无限饱食"
+group  = "生存"
+desc   = "饥饿值锁定在上限，不会掉"
 steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
 offset = "{S_FOOD}"
 type   = "f32"
 source_steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
 source_offset = "{S_MAXFOOD}"
+sane_min = 0
+sane_max = 1000
+
+[[cheats]]
+id     = "maxfood"
+name   = "饱食上限拉满"
+group  = "生存"
+desc   = "把饱食度上限抬高，长时间不吃也不掉状态"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_MAXFOOD}"
+input  = true
+type   = "f32"
+value  = 10000.0
+sane_min = 100
+sane_max = 1000000
 
 [[cheats]]
 id     = "sanity"
 name   = "精神值满"
+group  = "生存"
+desc   = "SAN 值锁定 100，夜里也不掉"
 steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
 offset = "{S_SANITY}"
 type   = "f32"
 value  = 100.0
+sane_min = 0
+sane_max = 100
 
 [[cheats]]
 id     = "weight"
 name   = "负重上限"
+group  = "移动"
+desc   = "背包负重上限拉到 9999，同时刷新界面缓存值"
 steps  = ["[{PC_STATE}]", "[{PPS_INV}]"]
 offset = "{INV_MAXWEIGHT}"
+extra_offset = "{INV_MAXWEIGHT_CACHE}"
+input  = true
 type   = "f32"
 value  = 9999.0
+sane_min = 1
+sane_max = 1000000
+
+[[cheats]]
+id     = "jump"
+name   = "多段跳"
+group  = "移动"
+desc   = "允许在空中连续跳 3 次"
+steps  = []
+offset = "{P_JUMP_MAX}"
+input  = true
+type   = "i32"
+value  = 3
+revert = 1
+sane_min = 1
+sane_max = 20
+
+[[cheats]]
+id     = "speed"
+name   = "游戏加速"
+group   = "世界"
+desc   = "整体游戏速度 ×1.5（暂停或退出前请先关掉）"
+steps  = []
+offset = "{P_TIME_DILATION}"
+input  = true
+type   = "f32"
+value  = 1.5
+revert = 1.0
+sane_min = 0.1
+sane_max = 5.0
+
+[[cheats]]
+id     = "craftspeed"
+name   = "制作速度"
+group  = "成长"
+desc   = "制作台工作速度拉高，制作近乎瞬间完成"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_CRAFT_SPEED}"
+input  = true
+type   = "i32"
+value  = 100000
+sane_min = 1
+sane_max = 100000000
+
+[[cheats]]
+id     = "status"
+name   = "属性点"
+group  = "成长"
+desc   = "未分配属性点设为 99，可自由加点"
+steps  = ["[{PC}]", "[{PARAM_INDIV}]", "+{INDIV_SAVE}"]
+offset = "{S_STATUS_POINT}"
+input  = true
+type   = "i32"
+value  = 99
+sane_min = 0
+sane_max = 10000
 
 [[cheats]]
 id     = "tech"
 name   = "科技点"
+group  = "成长"
+desc   = "普通科技点设为 999"
 steps  = ["[{PC_STATE}]", "[{PPS_TECH}]"]
 offset = "{TECH_POINT}"
+input  = true
 type   = "i32"
 value  = 999
+sane_min = 0
+sane_max = 1000000
+
+[[cheats]]
+id     = "bosstech"
+name   = "古代科技点"
+group  = "成长"
+desc   = "古代科技点（Boss 掉落）设为 99"
+steps  = ["[{PC_STATE}]", "[{PPS_TECH}]"]
+offset = "{TECH_BOSS_POINT}"
+input  = true
+type   = "i32"
+value  = 99
+sane_min = 0
+sane_max = 1000000
