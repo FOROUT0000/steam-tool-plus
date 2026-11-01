@@ -186,6 +186,7 @@
     "has_extract_play": true,
     "has_steam_import": true,
     "trainer": {
+      "profile": "palworld",
       "download_urls": [
         {
           "source": "thunder",
@@ -23011,6 +23012,300 @@
             "source": "baidu",
             "url": "https://pan.baidu.com/s/1pqHzS5svjcENgyhu9Tb8qw?pwd=rfij",
             "pwd": "rfij"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1902690",
+    "game_name": "Fate/Samurai Remnant",
+    "chinese_name": "Fate / 武士遗迹",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3195790",
+    "game_name": "White Knuckle",
+    "chinese_name": "白指节",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5064340",
+    "game_name": "DinoBones: Tidy Up the Museum",
+    "chinese_name": "恐龙骨骼：整理博物馆",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2223980",
+    "game_name": "Nomad Drive",
+    "chinese_name": "游牧驾驶",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1475810",
+    "game_name": "Ghostwire: Tokyo",
+    "chinese_name": "幽灵线：东京",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4348910",
+    "game_name": "Probably Stolen",
+    "chinese_name": "深空当铺：可能是偷的",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4532550",
+    "game_name": "Keep Her Safe",
+    "chinese_name": "守护我的大火箭",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3549740",
+    "game_name": "The Last Camp",
+    "chinese_name": "最后的营地",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4198430",
+    "game_name": "The Last Camp : Dawn",
+    "chinese_name": "最后的营地：曙光",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5258340",
+    "game_name": "One Million Coins",
+    "chinese_name": "百万金币",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1588550",
+    "game_name": "Cairn",
+    "chinese_name": "孤山独影",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1721470",
+    "game_name": "Poppy Playtime",
+    "chinese_name": "波比的游戏时间",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "641990",
+    "game_name": "The Escapists 2",
+    "chinese_name": "脱逃者 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5KRF1BK5duPy5drcX-OjqrA1?pwd=xfdc",
+            "pwd": "xfdc"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1K-r0UqO5iqBHtvpF-oIBjQ?pwd=vpnw",
+            "pwd": "vpnw"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "934580",
+    "game_name": "Hell Wedding",
+    "chinese_name": "夜嫁",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "367520",
+    "game_name": "Hollow Knight",
+    "chinese_name": "空洞骑士",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2436940",
+    "game_name": "Sephiria",
+    "chinese_name": "赛菲莉娅",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5KRCr9WiWJMVhKIfKkxm6UA1?pwd=8a8g",
+            "pwd": "8a8g"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1dWODhXl5DtJZlDzCnaiKzg?pwd=8qhm",
+            "pwd": "8qhm"
           }
         ]
       }
