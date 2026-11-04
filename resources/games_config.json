@@ -10,13 +10,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP57F6y-TWKSFQyCSU-uHsb-A1?pwd=s3z4",
-            "pwd": "s3z4"
+            "url": "https://pan.xunlei.com/s/VP5bEmYBm-3LTbfQF5yHuoy7A1?pwd=z48w",
+            "pwd": "z48w"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1lXwz8AXjfcSGN0LuvMRkuA?pwd=37ng",
-            "pwd": "37ng"
+            "url": "https://pan.baidu.com/s/1z77i41Y9SOb6H6Om-RHUVQ?pwd=4vz2",
+            "pwd": "4vz2"
           }
         ]
       }
@@ -79,6 +79,7 @@
     ],
     "has_extract_play": true,
     "has_steam_import": true,
+    "notes": "运行.\\ACE COMBAT 8 WINGS OF THEVE\\Game\\Binaries\\Win64\\AceCombat8.exe",
     "trainer": {
       "download_urls": []
     }
@@ -23315,5 +23316,83 @@
     "trainer": {
       "download_urls": []
     }
+  },
+  {
+    "game_id": "244210",
+    "game_name": "Assetto Corsa",
+    "chinese_name": "神力科莎",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3255500",
+    "game_name": "Ved: Recure",
+    "chinese_name": "Ved: 疗愈所",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "376210",
+    "game_name": "The Isle",
+    "chinese_name": "恐龙岛",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3026450",
+    "game_name": "Deadly Days: Roadtrip",
+    "chinese_name": "死亡日：狂杀末路",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "303610",
+    "game_name": "Suicide Guy",
+    "chinese_name": "自杀小子",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
+  },
+  {
+    "game_id": "3430470",
+    "game_name": "PLATiNA :: LAB",
+    "chinese_name": "白金档案",
+    "downloadable": true,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": true
   }
 ]
