@@ -97,6 +97,23 @@
     }
   },
   {
+    "game_id": "4348910",
+    "game_name": "Probably Stolen",
+    "chinese_name": "深空当铺：可能是偷的",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
     "game_id": "2358720",
     "game_name": "Black Myth: Wukong",
     "chinese_name": "黑神话：悟空",
@@ -23095,23 +23112,6 @@
     "game_id": "1475810",
     "game_name": "Ghostwire: Tokyo",
     "chinese_name": "幽灵线：东京",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": []
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": []
-    }
-  },
-  {
-    "game_id": "4348910",
-    "game_name": "Probably Stolen",
-    "chinese_name": "深空当铺：可能是偷的",
     "downloadable": true,
     "tags": [
       {
