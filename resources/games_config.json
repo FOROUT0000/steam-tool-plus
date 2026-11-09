@@ -3081,10 +3081,15 @@
             "pwd": "26c1"
           }
         ]
+      },
+      {
+        "patch_type": 5,
+        "download_urls": []
       }
     ],
     "has_extract_play": true,
     "has_steam_import": true,
+    "notes": "steam联机版已失效，请去解压即玩里下载xbox联机版，解压后，按照必看教程安装游戏后进游戏开启跨平台联机后联机",
     "trainer": {
       "download_urls": []
     }
@@ -10590,12 +10595,7 @@
     "game_name": "Lossless Scaling",
     "chinese_name": "小黄鸭补帧工具",
     "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": []
-      }
-    ],
+    "tags": [],
     "has_extract_play": true,
     "has_steam_import": true,
     "trainer": {
