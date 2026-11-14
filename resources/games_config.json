@@ -476,28 +476,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP0wUb758vEMT2ieqyQmfkkIA1?pwd=g7t8",
-            "pwd": "g7t8"
+            "url": "https://pan.xunlei.com/s/VP6OpdyXNrLE_jCQ7izUglxJA1?pwd=dkr8",
+            "pwd": "dkr8"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1gUSeA-25tFyh5MZr17VFEw?pwd=hryu",
-            "pwd": "hryu"
-          }
-        ]
-      },
-      {
-        "patch_type": 1,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOwTRFztOm9d-H5A-P5dqZ6qA1?pwd=yuq8",
-            "pwd": "yuq8"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/11lIteogUCuUbWQsCfUiQQA?pwd=autm",
-            "pwd": "autm"
+            "url": "https://pan.baidu.com/s/1Jg_ry3cHpbFFTIfB36EISg?pwd=nv7y",
+            "pwd": "nv7y"
           }
         ]
       }
@@ -24427,6 +24412,836 @@
             "source": "baidu",
             "url": "https://pan.baidu.com/s/1Q9bbqFSj-CKjXVMz6PocVg?pwd=86ks",
             "pwd": "86ks"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1136380",
+    "game_name": "Ultimate Fishing® Simulator 2",
+    "chinese_name": "终极钓鱼模拟器2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "427520",
+    "game_name": "Factorio",
+    "chinese_name": "异星工厂",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OqGLtrow7INJoWeFZBL7AA1?pwd=ee7e",
+            "pwd": "ee7e"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1FYAb0ZWpLtOsZ_4Pgc8THA?pwd=9dri",
+            "pwd": "9dri"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "658850",
+    "game_name": "Do Not Feed the Monkeys",
+    "chinese_name": "别喂猴子",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "744710",
+    "game_name": "Kungfu Beggar",
+    "chinese_name": "功夫乞丐",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4499040",
+    "game_name": "Tiny Slime Farm",
+    "chinese_name": "史莱姆农场",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5266240",
+    "game_name": "Potato Please",
+    "chinese_name": "土豆请",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5455340",
+    "game_name": "Punch The Walls",
+    "chinese_name": "猛砸墙壁",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5160800",
+    "game_name": "Find The Needle",
+    "chinese_name": "草堆寻针",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2069070",
+    "game_name": "Hay! One Billion!",
+    "chinese_name": "十亿干草",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "312520",
+    "game_name": "Rain World",
+    "chinese_name": "雨世界",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OpwmucwDI3zZjmtEMXFrGA1?pwd=7xq3",
+            "pwd": "7xq3"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/11gBqZFN_wDzeb1D3dYLEUQ?pwd=xhus",
+            "pwd": "xhus"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3024040",
+    "game_name": "Stronghold Crusader: Definitive Edition",
+    "chinese_name": "要塞十字军东征：决定版",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5084260",
+    "game_name": "Fireboy & Watergirl 1: The Forest Temple",
+    "chinese_name": "森林冰火人：森林神殿",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4715160",
+    "game_name": "Finals Week",
+    "chinese_name": "逢考弊过",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OqjpWNUZ091eF9PBipOH6A1?pwd=vay4",
+            "pwd": "vay4"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1MXOoBi0W5ciMIJ4g8sPK1A?pwd=t8ax",
+            "pwd": "t8ax"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "924970",
+    "game_name": "Back 4 Blood",
+    "chinese_name": "喋血复仇",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4530370",
+    "game_name": "Football Manager 27",
+    "chinese_name": "足球经理27",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1809540",
+    "game_name": "Nine Sols",
+    "chinese_name": "九日",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1858720",
+    "game_name": "Message From Aliens",
+    "chinese_name": "外星来信",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2591310",
+    "game_name": "Pure Badminton",
+    "chinese_name": "纯粹羽毛球",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2085540",
+    "game_name": "Stick It to the Stickman",
+    "chinese_name": "打工火柴人",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "292000",
+    "game_name": "No More Room in Hell 2",
+    "chinese_name": "地狱已满 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5378780",
+    "game_name": "问道九州",
+    "chinese_name": "问道九州",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2842800",
+    "game_name": "Dream of Corpse Lady",
+    "chinese_name": "尸姬之梦",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "872670",
+    "game_name": "SCP: 5K(Alpha Testing)",
+    "chinese_name": "SCP: 5K",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OrH0TXGkBbbGOblJPkkV3A1?pwd=dw6u",
+            "pwd": "dw6u"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1J-Qf0054KIAkL8aOgHOCnA?pwd=vzrk",
+            "pwd": "vzrk"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "412830",
+    "game_name": "STEINS;GATE",
+    "chinese_name": "命运石之门",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4256690",
+    "game_name": "Shards Of Solitude",
+    "chinese_name": "孤寂碎片",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4576490",
+    "game_name": "Casualties: Unknown",
+    "chinese_name": "未知伤亡",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2418520",
+    "game_name": "Farm Together 2",
+    "chinese_name": "一起玩农场2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3375990",
+    "game_name": "PC Cafe Simulator",
+    "chinese_name": "PC 网吧模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2803490",
+    "game_name": "Atomcraft",
+    "chinese_name": "原子工艺",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "458710",
+    "game_name": "Kingdom Rush Frontiers - Tower Defense",
+    "chinese_name": "王国保卫战2：前线",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "816340",
+    "game_name": "Kingdom Rush Origins - Tower Defense",
+    "chinese_name": "王国保卫战3：起源",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1367550",
+    "game_name": "Kingdom Rush Vengeance - Tower Defense",
+    "chinese_name": "王国保卫战4：复仇",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5175310",
+    "game_name": "Worst Class Ever",
+    "chinese_name": "我带过的最差一届",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2860490",
+    "game_name": "Warota: I Live Next to The Demon King's Castle LOL",
+    "chinese_name": "笑拉了，我家旁边是魔王城666",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2826790",
+    "game_name": "Stormforge",
+    "chinese_name": "千锤百炼",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "979070",
+    "game_name": "Just Die Already",
+    "chinese_name": "模拟老大爷",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OrAyk_l6UbcUa6BRIkMi4A1?pwd=wkg7",
+            "pwd": "wkg7"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1YnQNEqrSEFhYJNORDk46Kw?pwd=n3fm",
+            "pwd": "n3fm"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1304930",
+    "game_name": "The Outlast Trials",
+    "chinese_name": "逃生：试炼",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1001270",
+    "game_name": "Kebab Chefs! - Restaurant Simulator",
+    "chinese_name": "烤串大厨！餐厅模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OrSI3Z8iuA414ys6A7oZDA1?pwd=m5gu",
+            "pwd": "m5gu"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1U6-uxjimT4jwi-jJ4EnIBQ?pwd=aan9",
+            "pwd": "aan9"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1089980",
+    "game_name": "The Henry Stickmin Collection",
+    "chinese_name": "火柴人亨利合集",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1178490",
+    "game_name": "ParanormalHK",
+    "chinese_name": "港诡实录",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "675010",
+    "game_name": "MudRunner",
+    "chinese_name": "旋转轮胎：泥泞奔驰",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6OrMK73wqJu0kNB8RrsxGtA1?pwd=an2k",
+            "pwd": "an2k"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1gYu9mDwOJc31Jpx51ltRew?pwd=2755",
+            "pwd": "2755"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "286160",
+    "game_name": "Tabletop Simulator",
+    "chinese_name": "桌游模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6Oq2nrq4i97-Nk996XbEHIA1?pwd=ej2i",
+            "pwd": "ej2i"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1CCEEEJSV4lBQbS0J6ZGLig?pwd=xqnw",
+            "pwd": "xqnw"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4078430",
+    "game_name": "STAR WARS: Galactic Race",
+    "chinese_name": "星球大战：银河赛车手",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6Oro0SOM9tnbcIsR_AV5HoA1?pwd=j44y",
+            "pwd": "j44y"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1ARqnILGp7QVFzYJMMX_haQ?pwd=25em",
+            "pwd": "25em"
           }
         ]
       }
