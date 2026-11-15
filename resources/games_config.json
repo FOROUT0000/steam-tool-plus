@@ -15672,13 +15672,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP10Ug2QyZwx80xb4snzYTXrA1?pwd=r2sa",
-            "pwd": "r2sa"
+            "url": "https://pan.xunlei.com/s/VP6SUOa-oSMUD8LGan60yp8tA1?pwd=xyai",
+            "pwd": "xyai"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1zS0Ltl1LxHtE63jaxsg2Cg?pwd=8sf5",
-            "pwd": "8sf5"
+            "url": "https://pan.baidu.com/s/1GA7Pr6K3eecdVgLRNEEcmQ?pwd=5p97",
+            "pwd": "5p97"
           }
         ]
       }
@@ -24626,8 +24626,19 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 0,
-        "download_urls": []
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SUasj6VWUjYcKjD4ecefqA1?pwd=cui9",
+            "pwd": "cui9"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1o1vGzCMvrqgdlrGB7AkKPw?pwd=mcwr",
+            "pwd": "mcwr"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -25430,6 +25441,426 @@
       {
         "patch_type": 0,
         "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2182680",
+    "game_name": "Task Time",
+    "chinese_name": "一脚踢到百货大楼",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SWfZ2ndUtIHjyBsb9voyeA1?pwd=fy5x",
+            "pwd": "fy5x"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1IrJwp3R8hQtWmwkFJY7gug?pwd=xy9u",
+            "pwd": "xy9u"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3009300",
+    "game_name": "Teamfight Manager 2",
+    "chinese_name": "团战经理 2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SX4nLrow7INJoWeFbuXDpA1?pwd=9xrf",
+            "pwd": "9xrf"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1_ia9JqciiHX0INNLfMlTbg?pwd=1r31",
+            "pwd": "1r31"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3929630",
+    "game_name": "Terrinoth®: Heroes of Descent",
+    "chinese_name": "特瑞诺斯：绝地英雄",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6STgKf6VWUjYcKjD4ebg7_A1?pwd=4ydf",
+            "pwd": "4ydf"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1q9l4-DLys_nQiYLZuwAT0w?pwd=mhem",
+            "pwd": "mhem"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3267550",
+    "game_name": "The Backrooms: Rescue Expedition",
+    "chinese_name": "后室：救援远征",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SXLTEtOFA4Y8-nU3ZxSv2A1?pwd=zt6h",
+            "pwd": "zt6h"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1rdd8gLn6sKRM3eWSBxwLJQ?pwd=pnne",
+            "pwd": "pnne"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "677340",
+    "game_name": "The Colonists",
+    "chinese_name": "殖民者",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SW6Znyv66Lct1FzFnZcUwA1?pwd=z4ax",
+            "pwd": "z4ax"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1oDNjybz0z1rKnT0R779MuQ?pwd=ip62",
+            "pwd": "ip62"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2242760",
+    "game_name": "The Escape: Together",
+    "chinese_name": "一起逃离",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SVqJYrq235i7zVmMakShQA1?pwd=vnmk",
+            "pwd": "vnmk"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1VzE3eqVBKKZdfQUMmV1T7w?pwd=gfwa",
+            "pwd": "gfwa"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3552820",
+    "game_name": "The Horde Wants You Dead",
+    "chinese_name": "尸潮求生",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6STXUaDfd2gGkoclEnPnXXA1?pwd=hbkp",
+            "pwd": "hbkp"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1SOwp0mRLbXQSsX9UijATOQ?pwd=3bq9",
+            "pwd": "3bq9"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3412160",
+    "game_name": "The House Always Wins",
+    "chinese_name": "拉斯维加斯模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SSwk7pYx1khpxDO9XUSZZA1?pwd=awfn",
+            "pwd": "awfn"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/11XQc-tJoCH3kYE7nFykxfQ?pwd=bp7j",
+            "pwd": "bp7j"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3364070",
+    "game_name": "The Jackbox Party Pack 11",
+    "chinese_name": "杰克盒子派对合集 11",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SYWUzNrIIfyLJjsfM0tdeA1?pwd=ecbm",
+            "pwd": "ecbm"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1hgoX0OjyK9FWaqc3Dfa5YA?pwd=s9r2",
+            "pwd": "s9r2"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3050220",
+    "game_name": "THE KING OF FIGHTERS XIII GLOBAL MATCH",
+    "chinese_name": "拳皇 13 全球对决",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SVK4Trq235i7zVmMajjLvA1?pwd=3s44",
+            "pwd": "3s44"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1-w0F1NZVhH81m2UY1Z2uJw?pwd=5ykw",
+            "pwd": "5ykw"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1892090",
+    "game_name": "The Last Citadel",
+    "chinese_name": "最后的堡垒",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6STIdAOvv4gVctpdoHgaeeA1?pwd=ikug",
+            "pwd": "ikug"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/19fTPoD3fvluXK7E5DA40jA?pwd=gq8f",
+            "pwd": "gq8f"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2764750",
+    "game_name": "The Other Side",
+    "chinese_name": "彼界",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SYIYECBNNR9UP7cmqHrqBA1?pwd=x6z8",
+            "pwd": "x6z8"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1dKSSIp9kYJfCeRfPBppR6g?pwd=z7eu",
+            "pwd": "z7eu"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3669740",
+    "game_name": "The You Quiz",
+    "chinese_name": "知己问答",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SU1wFHMx8lHUog7oPG818A1?pwd=rzwc",
+            "pwd": "rzwc"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1DRQw5AfMLtkqKISDzmc_dw?pwd=ayqt",
+            "pwd": "ayqt"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3396100",
+    "game_name": "Third Person Basketball Court",
+    "chinese_name": "第三人称篮球赛场",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SXc0xI_mVcZ2LS1ip5fVSA1?pwd=hjyj",
+            "pwd": "hjyj"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1TredvmanXRyHMnPkcKwitQ?pwd=hrf2",
+            "pwd": "hrf2"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2477010",
+    "game_name": "Ticket to Ride®",
+    "chinese_name": "车票之旅",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6SY08IpShsD-CZr1SpZTW8A1?pwd=aa2c",
+            "pwd": "aa2c"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1FmsXCW03S-Sp37hHJB0gyA?pwd=w628",
+            "pwd": "w628"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
