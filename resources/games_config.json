@@ -501,32 +501,17 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 1,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP0gyOiQUJz60D-44J86Z-hkA1?pwd=f66a",
-            "pwd": "f66a"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1kfq07hCeR67FSmVU_C2R8g?pwd=va5r",
-            "pwd": "va5r"
-          }
-        ]
-      },
-      {
         "patch_type": 2,
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP0gyB07zBnaDk6k7fFeTiA-A1?pwd=7i6h",
-            "pwd": "7i6h"
+            "url": "https://pan.xunlei.com/s/VP6TzWJDZ8iuA414ys6FS0LmA1?pwd=yqsf",
+            "pwd": "yqsf"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/18lhQeOQi8Eut7RvvkHQigQ?pwd=ktqv",
-            "pwd": "ktqv"
+            "url": "https://pan.baidu.com/s/16j-lYx8J6vl56gcpIuJ7Ww?pwd=2hxy",
+            "pwd": "2hxy"
           }
         ]
       }
@@ -19240,7 +19225,7 @@
     "game_id": "427730",
     "game_name": "Who's Your Daddy?!",
     "chinese_name": "谁是你爸爸",
-    "downloadable": true,
+    "downloadable": false,
     "tags": [
       {
         "patch_type": 2,
@@ -19259,7 +19244,7 @@
       }
     ],
     "has_extract_play": true,
-    "has_steam_import": true,
+    "has_steam_import": false,
     "trainer": {
       "download_urls": []
     }
