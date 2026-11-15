@@ -1,5 +1,34 @@
 [
   {
+    "game_id": "431960",
+    "game_name": "Wallpaper Engine",
+    "chinese_name": "壁纸引擎",
+    "downloadable": false,
+    "tags": [],
+    "has_extract_play": false,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4348910",
+    "game_name": "Probably Stolen",
+    "chinese_name": "深空当铺：可能是偷的",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
     "game_id": "4115450",
     "game_name": "Phantom Blade Zero",
     "chinese_name": "影之刃零",
@@ -24,6 +53,7 @@
     "has_extract_play": true,
     "has_steam_import": true,
     "trainer": {
+      "profile": "phantombladezero",
       "download_urls": []
     }
   },
@@ -47,64 +77,6 @@
             "pwd": "devd"
           }
         ]
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": []
-    }
-  },
-  {
-    "game_id": "2288340",
-    "game_name": "ACE COMBAT 8: WINGS OF THEVE",
-    "chinese_name": "空战奇兵8 希孚之翼",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 3,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP5Ce9hZGvTcGuqe-FdUUYwFA1?pwd=qmb3",
-            "pwd": "qmb3"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1v4jqKukRyghmhcLn_JjsOg?pwd=d4qf",
-            "pwd": "d4qf"
-          }
-        ]
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": true,
-    "notes": "运行.\\ACE COMBAT 8 WINGS OF THEVE\\Game\\Binaries\\Win64\\AceCombat8.exe",
-    "trainer": {
-      "download_urls": []
-    }
-  },
-  {
-    "game_id": "431960",
-    "game_name": "Wallpaper Engine",
-    "chinese_name": "壁纸引擎",
-    "downloadable": false,
-    "tags": [],
-    "has_extract_play": false,
-    "has_steam_import": true,
-    "trainer": {
-      "download_urls": []
-    }
-  },
-  {
-    "game_id": "4348910",
-    "game_name": "Probably Stolen",
-    "chinese_name": "深空当铺：可能是偷的",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": []
       }
     ],
     "has_extract_play": true,
@@ -250,6 +222,39 @@
           "pwd": "war2"
         }
       ]
+    }
+  },
+  {
+    "game_id": "1912410",
+    "game_name": "Minecraft Dungeons II",
+    "chinese_name": "我的世界：地下城2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP3BgmoworYhmcBjlowWNdzfA1?pwd=mqm5",
+            "pwd": "mqm5"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1J33gHyyrobO99PQAiBHB1g?pwd=ugmh",
+            "pwd": "ugmh"
+          }
+        ]
+      },
+      {
+        "patch_type": 5,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": false,
+    "notes": "xbox可以联机了（需要开加速器，推荐给梨加速器）",
+    "trainer": {
+      "download_urls": []
     }
   },
   {
@@ -19191,35 +19196,6 @@
     }
   },
   {
-    "game_id": "1912410",
-    "game_name": "Minecraft Dungeons II",
-    "chinese_name": "我的世界：地下城2",
-    "downloadable": true,
-    "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP3BgmoworYhmcBjlowWNdzfA1?pwd=mqm5",
-            "pwd": "mqm5"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1J33gHyyrobO99PQAiBHB1g?pwd=ugmh",
-            "pwd": "ugmh"
-          }
-        ]
-      }
-    ],
-    "has_extract_play": true,
-    "has_steam_import": false,
-    "notes": "只能单机玩",
-    "trainer": {
-      "download_urls": []
-    }
-  },
-  {
     "game_id": "3669870",
     "game_name": "CONTROL Resonant",
     "chinese_name": "控制: 共振",
@@ -23602,6 +23578,35 @@
     }
   },
   {
+    "game_id": "2288340",
+    "game_name": "ACE COMBAT 8: WINGS OF THEVE",
+    "chinese_name": "空战奇兵8 希孚之翼",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 3,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP5Ce9hZGvTcGuqe-FdUUYwFA1?pwd=qmb3",
+            "pwd": "qmb3"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1v4jqKukRyghmhcLn_JjsOg?pwd=d4qf",
+            "pwd": "d4qf"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "notes": "运行.\\ACE COMBAT 8 WINGS OF THEVE\\Game\\Binaries\\Win64\\AceCombat8.exe",
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
     "game_id": "2567870",
     "game_name": "Chained Together",
     "chinese_name": "链在一起",
@@ -24701,7 +24706,18 @@
     "tags": [
       {
         "patch_type": 3,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6P75KbCBNNR9UP7cmmqR1mA1?pwd=eydn",
+            "pwd": "eydn"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/19uQQTdbCcJzvPYxgaQ_N5g?pwd=7mqf",
+            "pwd": "7mqf"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -25244,6 +25260,176 @@
             "pwd": "25em"
           }
         ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5206350",
+    "game_name": "高三最后300天",
+    "chinese_name": "高三最后300天",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1210320",
+    "game_name": "Potion Craft: Alchemist Simulator",
+    "chinese_name": "药剂工艺：炼金模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1238840",
+    "game_name": "Battlefield™ 1",
+    "chinese_name": "战地1",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2638080",
+    "game_name": "Annihilated",
+    "chinese_name": "勇者小队全灭了",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2157680",
+    "game_name": "Lunar Mirror:The Pavilion of Desire",
+    "chinese_name": "月之镜：欲望之馆",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4870960",
+    "game_name": "The Fame Game II: L.A. Heartbreaker",
+    "chinese_name": "名利场2：冒牌富少",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3816120",
+    "game_name": "Re2 I Rise Alone",
+    "chinese_name": "重生2我独自逆袭",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1307710",
+    "game_name": "GRID Legends",
+    "chinese_name": "超级房车赛：传奇",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "500190",
+    "game_name": "Firefight",
+    "chinese_name": "交战",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3669620",
+    "game_name": "Warhammer Survivors",
+    "chinese_name": "战锤幸存者",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
       }
     ],
     "has_extract_play": true,
