@@ -3118,13 +3118,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP-7uiZ8DlwlMP3877I1eKFMA1?pwd=f6ju",
-            "pwd": "f6ju"
+            "url": "https://pan.xunlei.com/s/VP6jSc3g-1nEyUzaZR5EqPqMA1?pwd=nvba",
+            "pwd": "nvba"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1lBe4JLXCoYC1mSmFbx2zBA?pwd=94yc",
-            "pwd": "94yc"
+            "url": "https://pan.baidu.com/s/1L3iRfzTDDqNvoq8HFi-33Q?pwd=nvay",
+            "pwd": "nvay"
           }
         ]
       }
@@ -7769,23 +7769,8 @@
     "game_id": "2235200",
     "game_name": "Neon Abyss 2",
     "chinese_name": "霓虹深渊2",
-    "downloadable": true,
+    "downloadable": false,
     "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": [
-          {
-            "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOwma_uwirzYkZ6L0AyAmFPGA1?pwd=ama9",
-            "pwd": "ama9"
-          },
-          {
-            "source": "baidu",
-            "url": "https://pan.baidu.com/s/1kZ-Ldiaz2e08AFHB8llF7w?pwd=fhfu",
-            "pwd": "fhfu"
-          }
-        ]
-      },
       {
         "patch_type": 2,
         "download_urls": [
@@ -25053,8 +25038,19 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 0,
-        "download_urls": []
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jRiYA6KvHhdacgf-Zt3zDA1?pwd=jezf",
+            "pwd": "jezf"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/13AaVB4kiDMB3UaFIrRuwPQ?pwd=jwr8",
+            "pwd": "jwr8"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -25868,6 +25864,604 @@
             "source": "baidu",
             "url": "https://pan.baidu.com/s/1FmsXCW03S-Sp37hHJB0gyA?pwd=w628",
             "pwd": "w628"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "646570",
+    "game_name": "Slay the Spire",
+    "chinese_name": "杀戮尖塔",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2168680",
+    "game_name": "Nuclear Option",
+    "chinese_name": "核选项",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jRr0jmbkkcBSRJbaSk7C5A1?pwd=4bch",
+            "pwd": "4bch"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1PWIsBqTAkoA6OIhMOJS-2w?pwd=8jtf",
+            "pwd": "8jtf"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5088660",
+    "game_name": "Dungeon Miner",
+    "chinese_name": "地牢矿工",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3453600",
+    "game_name": "Supercar Collection Simulator",
+    "chinese_name": "超级跑车收藏模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4459590",
+    "game_name": "Slotbound",
+    "chinese_name": "转运军团",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2784470",
+    "game_name": "9 Kings",
+    "chinese_name": "九王 9 Kings",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1699480",
+    "game_name": "KLETKA",
+    "chinese_name": "笼子",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jSPBlNtezxFVb5SlzJJELA1?pwd=dfne",
+            "pwd": "dfne"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/11hFNPkiLHxJJNN1eUeFHcw?pwd=hqbt",
+            "pwd": "hqbt"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4096830",
+    "game_name": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
+    "chinese_name": "S.O.N.A.R. - 潜艇菜鸟团",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jSqyIw6eMGB12DOOE8IQFA1?pwd=xr9i",
+            "pwd": "xr9i"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Lp_cawKbQ3zJLf3_CzAsQw?pwd=q67t",
+            "pwd": "q67t"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3071240",
+    "game_name": "Voodoo Fishin'",
+    "chinese_name": "巫毒垂钓",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jRbOcTfw5MTbUH1hpA21YA1?pwd=yrpt",
+            "pwd": "yrpt"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1hSMrFruzsCde__jdsiTc1Q?pwd=x5i3",
+            "pwd": "x5i3"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1049410",
+    "game_name": "Superliminal",
+    "chinese_name": "超阈限空间",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jS8J0TAo5dzYH7WPTXb0fA1?pwd=afxs",
+            "pwd": "afxs"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1DhOE4KHzVfzW0GlKxN_TBA?pwd=ts8v",
+            "pwd": "ts8v"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "695330",
+    "game_name": "SEASON: A letter to the future",
+    "chinese_name": "寄梦远方",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5458210",
+    "game_name": "How They Built the Pyramids",
+    "chinese_name": "金字塔建造模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2420110",
+    "game_name": "Horizon Forbidden West™ Complete Edition",
+    "chinese_name": "地平线：西之绝境 完整版",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1151640",
+    "game_name": "Horizon Zero Dawn™ Complete Edition",
+    "chinese_name": "地平线：零之曙光 完整版",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5460910",
+    "game_name": "Mayday Airways",
+    "chinese_name": "求救航空",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4678800",
+    "game_name": "Train Sim World® 7",
+    "chinese_name": "模拟火车世界 7",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "553850",
+    "game_name": "HELLDIVERS™ 2",
+    "chinese_name": "绝地潜兵2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4356780",
+    "game_name": "Screen Stocks",
+    "chinese_name": "桌面股神",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4534960",
+    "game_name": "Dear Passengers",
+    "chinese_name": "Dear Passengers",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1471180",
+    "game_name": "梦江湖",
+    "chinese_name": "梦江湖",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "262060",
+    "game_name": "Darkest Dungeon®",
+    "chinese_name": "暗黑地牢",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jSWyUMTJK85RXx0zv34_fA1?pwd=5wie",
+            "pwd": "5wie"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1b4IASYcj0MqGbnWByppdBA?pwd=it27",
+            "pwd": "it27"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1946560",
+    "game_name": "sobosuba",
+    "chinese_name": "软弹融合",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1493440",
+    "game_name": "TORMENTOR",
+    "chinese_name": "施虐者",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4005220",
+    "game_name": "Deep Blue Sushi",
+    "chinese_name": "深蓝寿司",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1206560",
+    "game_name": "WorldBox - God Simulator",
+    "chinese_name": "世界盒子：上帝模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1002300",
+    "game_name": "Fear & Hunger",
+    "chinese_name": "恐惧与饥饿",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3311670",
+    "game_name": "Bento Blocks",
+    "chinese_name": "便当积木",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2133760",
+    "game_name": "Tiny Bookshop",
+    "chinese_name": "小小书店",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3296060",
+    "game_name": "Escape Academy 2: Back 2 School",
+    "chinese_name": "逃脱学院 2：再返校园",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jSjnoAto2CF8hFP8tRbW_A1?pwd=f5hp",
+            "pwd": "f5hp"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1yjv3kTU_wPJRa3y09XZ6ZQ?pwd=wgcx",
+            "pwd": "wgcx"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5118500",
+    "game_name": "Safari-TV",
+    "chinese_name": "野生动物园 TV",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6jSG7FqBPcdNXbzjQZUz_oA1?pwd=j3y4",
+            "pwd": "j3y4"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1hAr4z-_AOGug73ri0bitDg?pwd=enai",
+            "pwd": "enai"
           }
         ]
       }
