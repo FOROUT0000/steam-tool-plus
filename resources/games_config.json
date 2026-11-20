@@ -110,6 +110,18 @@
     }
   },
   {
+    "game_id": "9",
+    "game_name": "The Legend of Zelda:Ocarina of Time",
+    "chinese_name": "塞尔达传说 时之笛（重制版）",
+    "downloadable": false,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": false,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
     "game_id": "2358720",
     "game_name": "Black Myth: Wukong",
     "chinese_name": "黑神话：悟空",
