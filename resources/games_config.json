@@ -5684,13 +5684,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP1PABPZsRF2d2Az_pC4UKGCA1?pwd=rgbq",
-            "pwd": "rgbq"
+            "url": "https://pan.xunlei.com/s/VP6syPxrt7bX9EGeDlCUgM1KA1?pwd=u55r",
+            "pwd": "u55r"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1iQJGnbZpQX8LOjT7UlCm0Q?pwd=xttc",
-            "pwd": "xttc"
+            "url": "https://pan.baidu.com/s/1DOJLstPaFb3L377drEnAQQ?pwd=egdh",
+            "pwd": "egdh"
           }
         ]
       }
@@ -6780,8 +6780,24 @@
     "game_id": "394360",
     "game_name": "Hearts of Iron IV",
     "chinese_name": "钢铁雄心4",
-    "downloadable": false,
-    "tags": [],
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6syVNAUeyIlTHqkO5mFiIDA1?pwd=cifc",
+            "pwd": "cifc"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1QoTOAIgriv2UtNPUGHvtww?pwd=sdd3",
+            "pwd": "sdd3"
+          }
+        ]
+      }
+    ],
     "has_extract_play": true,
     "has_steam_import": true,
     "trainer": {
@@ -8347,12 +8363,8 @@
     "game_id": "268910",
     "game_name": "Cuphead",
     "chinese_name": "茶杯头",
-    "downloadable": true,
+    "downloadable": false,
     "tags": [
-      {
-        "patch_type": 0,
-        "download_urls": []
-      },
       {
         "patch_type": 2,
         "download_urls": [
@@ -9583,13 +9595,13 @@
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VOywcDosp3dA043PyTgXlIDQA1?pwd=fqrr",
-            "pwd": "fqrr"
+            "url": "https://pan.xunlei.com/s/VP6sybISjYl8TxDANScK_7P8A1?pwd=y482",
+            "pwd": "y482"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1WXKMcNtP4SgQIL0Y6Nq3KA?pwd=de45",
-            "pwd": "de45"
+            "url": "https://pan.baidu.com/s/1jaYq7hcKIN5Zew7rMsYc5g?pwd=ifi2",
+            "pwd": "ifi2"
           }
         ]
       }
@@ -26464,6 +26476,164 @@
             "pwd": "enai"
           }
         ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1877020",
+    "game_name": "Jujutsu Kaisen Cursed Clash",
+    "chinese_name": "咒术回战 双华乱舞",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6syEj_240EnmpIe7Guxx5HA1?pwd=uwj9",
+            "pwd": "uwj9"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/17na3NZGc5aufveCALKQgVw?pwd=riqj",
+            "pwd": "riqj"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1672810",
+    "game_name": "MIO: Memories in Orbit",
+    "chinese_name": "MIO: Memories in Orbit",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "824550",
+    "game_name": "SD GUNDAM BATTLE ALLIANCE",
+    "chinese_name": "SD GUNDAM 激斗同盟",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6syK8OX38KaIe0_xSwz6HoA1?pwd=nvzs",
+            "pwd": "nvzs"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Q3gF7kSAVjkYeED4BNQrrA?pwd=jpzv",
+            "pwd": "jpzv"
+          }
+        ]
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2487190",
+    "game_name": "Main Sequence",
+    "chinese_name": "主星序",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1991040",
+    "game_name": "School Days",
+    "chinese_name": "学生时代",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4066520",
+    "game_name": "Trust Your Gut",
+    "chinese_name": "相信直觉",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "206440",
+    "game_name": "To the Moon",
+    "chinese_name": "去月球",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "953490",
+    "game_name": "CARRION",
+    "chinese_name": "红怪",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
       }
     ],
     "has_extract_play": true,
