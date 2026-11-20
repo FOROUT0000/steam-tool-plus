@@ -26653,5 +26653,17 @@
     "trainer": {
       "download_urls": []
     }
+  },
+  {
+    "game_id": "10",
+    "game_name": "Forza Horizon 3",
+    "chinese_name": "极限竞速：地平线3",
+    "downloadable": false,
+    "tags": [],
+    "has_extract_play": true,
+    "has_steam_import": false,
+    "trainer": {
+      "download_urls": []
+    }
   }
 ]
