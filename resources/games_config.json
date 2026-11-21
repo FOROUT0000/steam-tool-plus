@@ -23622,6 +23622,7 @@
     "has_steam_import": true,
     "notes": "运行.\\ACE COMBAT 8 WINGS OF THEVE\\Game\\Binaries\\Win64\\AceCombat8.exe",
     "trainer": {
+      "profile": "acecombat8",
       "download_urls": []
     }
   },
@@ -27235,7 +27236,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wqRLy9uC9gSYIV31TJGuFA1?pwd=ncvx",
+            "pwd": "ncvx"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1gSm7bT7Zy2rwi0eEfjQfWg?pwd=4pfn",
+            "pwd": "4pfn"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27252,7 +27264,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wqMnujYl8TxDANScOQAE3A1?pwd=ay88",
+            "pwd": "ay88"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/12zyue1IGe4Kp-I3pQ1CYTA?pwd=w364",
+            "pwd": "w364"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27269,7 +27292,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wqAqe0LlkkH2tojekj50fA1?pwd=7mj7",
+            "pwd": "7mj7"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1vEFafVAC0ix25bvlo-F2dw?pwd=jwrv",
+            "pwd": "jwrv"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27286,7 +27320,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wqXxOCtGG9-5IKcagx6tOA1?pwd=7epq",
+            "pwd": "7epq"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1LUbNV6ExsCU0jVXamSIIvA?pwd=92qy",
+            "pwd": "92qy"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27303,7 +27348,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wpu9lSJrCO8RSykDRHaHuA1?pwd=w4id",
+            "pwd": "w4id"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/19zk-VIyKARk2alFH3V8O9A?pwd=gy4h",
+            "pwd": "gy4h"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27320,7 +27376,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wpmCKwo2pTXH93TKpZfS7A1?pwd=iu4g",
+            "pwd": "iu4g"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1Ax0tKMo8D4HmPkWhsLaYIw?pwd=vu6r",
+            "pwd": "vu6r"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27337,7 +27404,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wq2jlOsvMYUcpeZWu5JPUA1?pwd=yz4a",
+            "pwd": "yz4a"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1XMWX1PIy4Ncbkf5G1U3IjA?pwd=5cjx",
+            "pwd": "5cjx"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27354,7 +27432,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wpyftTdvayYUh1VKBinysA1?pwd=ik93",
+            "pwd": "ik93"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1yyZ8iznw9E_Y-obPeEXh1g?pwd=cbgx",
+            "pwd": "cbgx"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27371,7 +27460,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wq6o9vmN7xAaFNltEFLfuA1?pwd=cdm3",
+            "pwd": "cdm3"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1xO7ygLP-J0p0JXENMUQNUA?pwd=8prh",
+            "pwd": "8prh"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
@@ -27388,7 +27488,18 @@
     "tags": [
       {
         "patch_type": 2,
-        "download_urls": []
+        "download_urls": [
+          {
+            "source": "thunder",
+            "url": "https://pan.xunlei.com/s/VP6wqGT1CtGG9-5IKcagwtOTA1?pwd=rbr5",
+            "pwd": "rbr5"
+          },
+          {
+            "source": "baidu",
+            "url": "https://pan.baidu.com/s/1pC6n1Oz3yCHnlPpmQiHPYQ?pwd=d89n",
+            "pwd": "d89n"
+          }
+        ]
       }
     ],
     "has_extract_play": true,
