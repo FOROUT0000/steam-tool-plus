@@ -18,23 +18,24 @@
     "downloadable": true,
     "tags": [
       {
-        "patch_type": 3,
+        "patch_type": 0,
         "download_urls": [
           {
             "source": "thunder",
-            "url": "https://pan.xunlei.com/s/VP5bEmYBm-3LTbfQF5yHuoy7A1?pwd=z48w",
-            "pwd": "z48w"
+            "url": "https://pan.xunlei.com/s/VP788SXIA5myEs9HEEIyXvTiA1?pwd=hw6s",
+            "pwd": "hw6s"
           },
           {
             "source": "baidu",
-            "url": "https://pan.baidu.com/s/1z77i41Y9SOb6H6Om-RHUVQ?pwd=4vz2",
-            "pwd": "4vz2"
+            "url": "https://pan.baidu.com/s/11nDQuTPku8MbylEzfWgouQ?pwd=iw3e",
+            "pwd": "iw3e"
           }
         ]
       }
     ],
     "has_extract_play": true,
     "has_steam_import": true,
+    "notes": "免steam补丁是voices38破解补丁，可以无须使用虚拟化了",
     "trainer": {
       "profile": "phantombladezero",
       "download_urls": []
@@ -27682,6 +27683,601 @@
     "game_id": "1282730",
     "game_name": "Loop Hero",
     "chinese_name": "循环勇士",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2116120",
+    "game_name": "Incursion Red River",
+    "chinese_name": "红河行动",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2367480",
+    "game_name": "Speed Crew",
+    "chinese_name": "精英维修团队",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2698780",
+    "game_name": "ContractVille",
+    "chinese_name": "合同村",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "718650",
+    "game_name": "Driftland: The Magic Revival",
+    "chinese_name": "漂移大陆：魔法复兴",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1888160",
+    "game_name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "chinese_name": "装甲核心6",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2192900",
+    "game_name": "Knock'Em Out",
+    "chinese_name": "Knock'Em Out",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2965660",
+    "game_name": "PILGRIM",
+    "chinese_name": "朝圣者",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1063590",
+    "game_name": "Rogue Masters",
+    "chinese_name": "肉鸽大师",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2343920",
+    "game_name": "Trackline Express",
+    "chinese_name": "特快小火车",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2262080",
+    "game_name": "Omega Crafter",
+    "chinese_name": "欧米茄工匠",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1749860",
+    "game_name": "Lushfoil Photography Sim",
+    "chinese_name": "模拟美景摄影",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3010460",
+    "game_name": "Backroom Company",
+    "chinese_name": "后室公司",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2111630",
+    "game_name": "JR EAST Train Simulator",
+    "chinese_name": "JR 东日本列车模拟器",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "815370",
+    "game_name": "Green Hell",
+    "chinese_name": "绿色地狱",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3473270",
+    "game_name": "Our campus life",
+    "chinese_name": "男大学生的日常",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "967050",
+    "game_name": "Pacify",
+    "chinese_name": "安抚",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "4710340",
+    "game_name": "心动恋爱模拟器",
+    "chinese_name": "心动恋爱模拟器",
+    "downloadable": false,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": false,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1465460",
+    "game_name": "Infection Free Zone",
+    "chinese_name": "无感染区",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "5200620",
+    "game_name": "Dungeonbound",
+    "chinese_name": "地牢束缚",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1858650",
+    "game_name": "In Sink: A Co-op Escape Adventure",
+    "chinese_name": "合力逃脱",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2407270",
+    "game_name": "AI LIMIT",
+    "chinese_name": "无限机兵",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1465470",
+    "game_name": "The Crust",
+    "chinese_name": "地壳",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3362960",
+    "game_name": "Twinkleby",
+    "chinese_name": "汀可镇",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "2427700",
+    "game_name": "Backpack Battles",
+    "chinese_name": "背包乱斗：福西法的宝藏",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1268590",
+    "game_name": "Millennia",
+    "chinese_name": "千禧年",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1866320",
+    "game_name": "Baladins",
+    "chinese_name": "巴拉丁",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1566690",
+    "game_name": "Outpost: Infinity Siege",
+    "chinese_name": "重装前哨",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "917950",
+    "game_name": "Vellum",
+    "chinese_name": "维勒姆",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "242760",
+    "game_name": "The Forest",
+    "chinese_name": "森林",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1328990",
+    "game_name": "Godsworn",
+    "chinese_name": "Godsworn",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "1708850",
+    "game_name": "Drug Dealer Simulator 2",
+    "chinese_name": "毒枭模拟器2",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 2,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "280",
+    "game_name": "Half-Life: Source",
+    "chinese_name": "半条命：起源",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "362890",
+    "game_name": "Black Mesa",
+    "chinese_name": "黑山起源",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "3101040",
+    "game_name": "Magical Girl Witch Trials",
+    "chinese_name": "魔法少女的魔女审判",
+    "downloadable": true,
+    "tags": [
+      {
+        "patch_type": 0,
+        "download_urls": []
+      }
+    ],
+    "has_extract_play": true,
+    "has_steam_import": true,
+    "trainer": {
+      "download_urls": []
+    }
+  },
+  {
+    "game_id": "870200",
+    "game_name": "Juno: New Origins",
+    "chinese_name": "朱诺新纪元",
     "downloadable": true,
     "tags": [
       {
