@@ -1,0 +1,7 @@
+此补丁丁是voices38破解补丁，可以无须使用虚拟化了
+
+虚拟机转换成V38补丁版本，删除游戏文件夹platform\steam下的这些文件，全部删除
+
+Artifact_AMD、Artifact_Intel、steam_settings、artifact.dll、artifact.json、coldloader.dll、steamclient64.dll、winmm.dll
+
+然后再复制V38破解补丁覆盖，虚拟机补丁和V38补丁不能共存。否则游戏无法正常启动。
