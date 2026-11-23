@@ -1,0 +1,29 @@
+﻿去程序的【工具】->【免steam补丁】进行配置即可实现免steam游玩（Alt+Tab键可退出游戏全屏）
+详细教程（游戏本体默认安装在D:\SteamGame\Two Point Hospital，不是请对应修改）
+
+游戏文件夹 ：
+D:\SteamGame\Two Point Hospital\TPH_Data\Plugins\x86_64
+
+Steam AppID ：
+535930
+
+1..点击应用基础配置
+2.配置dlc，记得点保持配置
+
+高级功能配置->DLC配置 手动指定DLC
+DLC列表  输入：
+1901750=Two Point Hospital: Speedy Recovery
+1498090=Two Point Hospital: A Stitch in Time
+1440200=Two Point Hospital: Free Zombie Costume
+1424940=Two Point Hospital: SEGA 60th Items
+1377080=Two Point Hospital: Culture Shock
+1376920=Two Point Hospital: Fancy Dress Pack
+1196150=Two Point Hospital: Off The Grid
+1185850=Two Point Hospital: Jingle Jam Jingle Jimjams
+1144500=Two Point Hospital: Exhibition Items Pack
+1096580=Two Point Hospital: Close Encounters
+1035020=Two Point Hospital: Retro Items pack
+1003310=Two Point Hospital: Pebberley Island
+966690=Two Point Hospital: Bigfoot
+963240=Two Point Hospital - Convention-al Rug
+898770=Hospital Pass Rewards
